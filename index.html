@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>FWF-Schlagwort-Tombola</title>
+  <style>
+    :root {
+      --bg: #10131f;
+      --card: #181d2f;
+      --text: #f6f3ea;
+      --muted: #b8bdd2;
+      --accent: #ffcc4d;
+      --accent2: #7bdff2;
+      --danger: #ff6b6b;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(123,223,242,.22), transparent 32rem),
+        radial-gradient(circle at bottom right, rgba(255,204,77,.18), transparent 26rem),
+        var(--bg);
+      color: var(--text);
+      display: grid;
+      place-items: center;
+      padding: 2rem;
+    }
+    main {
+      width: min(920px, 100%);
+      background: rgba(24,29,47,.88);
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 28px;
+      padding: clamp(1.5rem, 4vw, 3rem);
+      box-shadow: 0 24px 90px rgba(0,0,0,.35);
+      text-align: center;
+    }
+    h1 { margin: 0 0 .6rem; font-size: clamp(2.1rem, 6vw, 4.5rem); line-height: .95; }
+    .subtitle { margin: 0 auto 2rem; color: var(--muted); max-width: 56ch; font-size: 1.08rem; }
+    .machine {
+      position: relative;
+      margin: 1.5rem auto 2rem;
+      width: min(540px, 100%);
+      min-height: 220px;
+      border-radius: 28px;
+      border: 2px solid rgba(255,255,255,.16);
+      background: linear-gradient(180deg, rgba(255,255,255,.09), rgba(255,255,255,.03));
+      display: grid;
+      place-items: center;
+      overflow: hidden;
+    }
+    .machine::before {
+      content: "";
+      position: absolute;
+      inset: -60%;
+      background: conic-gradient(from 0deg, transparent, rgba(255,204,77,.25), transparent, rgba(123,223,242,.22), transparent);
+      animation: spin 9s linear infinite;
+      opacity: .55;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .display {
+      position: relative;
+      z-index: 1;
+      width: calc(100% - 2.2rem);
+      min-height: 150px;
+      padding: 1.5rem;
+      border-radius: 22px;
+      background: rgba(16,19,31,.88);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      gap: .75rem;
+    }
+    .code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: clamp(1.8rem, 7vw, 4rem);
+      letter-spacing: .08em;
+      color: var(--accent);
+      text-shadow: 0 0 26px rgba(255,204,77,.35);
+    }
+    .label { font-size: clamp(1.15rem, 3.5vw, 2rem); font-weight: 750; }
+    button {
+      appearance: none;
+      border: 0;
+      cursor: pointer;
+      border-radius: 999px;
+      padding: 1rem 2rem;
+      font-size: clamp(1.1rem, 3vw, 1.45rem);
+      font-weight: 800;
+      color: #161616;
+      background: linear-gradient(135deg, var(--accent), #ffe79c);
+      box-shadow: 0 12px 34px rgba(255,204,77,.28);
+      transition: transform .15s ease, filter .15s ease;
+    }
+    button:hover { transform: translateY(-2px) scale(1.01); filter: brightness(1.04); }
+    button:disabled { cursor: wait; opacity: .65; transform: none; }
+    .resultLink {
+      display: inline-block;
+      margin-top: 1rem;
+      color: var(--accent2);
+      font-weight: 800;
+      font-size: 1.15rem;
+      text-decoration: none;
+      border-bottom: 2px solid currentColor;
+    }
+    .resultLink:hover { color: #baf3fb; }
+    .status { min-height: 1.5rem; color: var(--muted); margin-top: 1rem; }
+    .error { color: var(--danger); }
+    footer { margin-top: 2rem; color: var(--muted); font-size: .92rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>FWF-Schlagwort-Tombola</h1>
+    <p class="subtitle">Ein Zufallsgenerator für FWF-Wissensgebietszweige. Der Treffer ist direkt mit dem Forschungsradar verlinkt.</p>
+
+    <section class="machine" aria-live="polite">
+      <div class="display">
+        <div id="code" class="code">------</div>
+        <div id="label" class="label">Bereit?</div>
+      </div>
+    </section>
+
+    <button id="drawButton">Schlagwort ziehen</button>
+    <div id="status" class="status">Lade CSV…</div>
+    <a id="resultLink" class="resultLink" href="#" target="_blank" rel="noopener" hidden>Im FWF-Forschungsradar öffnen</a>
+
+    <footer>
+      CSV-Format: <code>code,label,path</code>. Für Unterkategorien im <code>path</code> die Hierarchie mit <code>&gt;</code> trennen.
+    </footer>
+  </main>
+
+  <script>
+    const CSV_FILE = "schlagwoerter.csv";
+    const FWF_BASE = "https://www.fwf.ac.at/entdecken/forschungsradar";
+
+    const codeEl = document.getElementById("code");
+    const labelEl = document.getElementById("label");
+    const button = document.getElementById("drawButton");
+    const linkEl = document.getElementById("resultLink");
+    const statusEl = document.getElementById("status");
+
+    let entries = [];
+
+    function parseCsvLine(line) {
+      const out = [];
+      let current = "";
+      let quoted = false;
+      for (let i = 0; i < line.length; i++) {
+        const char = line[i];
+        const next = line[i + 1];
+        if (char === '"' && quoted && next === '"') { current += '"'; i++; }
+        else if (char === '"') quoted = !quoted;
+        else if (char === "," && !quoted) { out.push(current.trim()); current = ""; }
+        else current += char;
+      }
+      out.push(current.trim());
+      return out;
+    }
+
+    function parseCsv(text) {
+      const lines = text.split(/\r?\n/).filter(line => line.trim() && !line.trim().startsWith("#"));
+      const headers = parseCsvLine(lines.shift()).map(h => h.toLowerCase());
+      return lines.map(line => {
+        const cells = parseCsvLine(line);
+        const item = {};
+        headers.forEach((h, i) => item[h] = cells[i] || "");
+        item.path = item.path || item.label;
+        return item;
+      }).filter(item => item.code && item.label);
+    }
+
+    function fwfUrlFor(item) {
+      // The Forschungsradar state contains a facet of this form:
+      // facets:[_tree.wissgebietzweig.de|[Naturwissenschaften]]
+      // For deeper categories, the app accepts a tree path in the bracket.
+      const treePath = item.path.split(">").map(s => s.trim()).filter(Boolean).join(">");
+      const facet = `[_tree.wissgebietzweig.de|[${treePath}]]`;
+      const state = `id:0;title:*;type:default;sSearchTerm:*;iSearchIndex:1##c2VhcmNocHJvZmlsZS1zdGFuZGFyZA==;acExtendSynonyms:false;acExtendTranslations:false;facets:${facet};connectorId:all;rlViewMode:full;sQueryId:1##c2VhcmNocHJvZmlsZS1zdGFuZGFyZA==`;
+      return `${FWF_BASE}?&ifs_app_states_0=${encodeURIComponent(state)}`;
+    }
+
+    function showItem(item) {
+      codeEl.textContent = item.code;
+      labelEl.textContent = item.label;
+      linkEl.href = fwfUrlFor(item);
+      linkEl.hidden = false;
+    }
+
+    async function draw() {
+      if (!entries.length) return;
+      button.disabled = true;
+      linkEl.hidden = true;
+      statusEl.textContent = "Die Kugeln rollen…";
+
+      const duration = 1700;
+      const start = performance.now();
+      let finalItem = entries[Math.floor(Math.random() * entries.length)];
+
+      function frame(now) {
+        const progress = Math.min((now - start) / duration, 1);
+        const item = entries[Math.floor(Math.random() * entries.length)];
+        codeEl.textContent = item.code;
+        labelEl.textContent = item.label;
+        if (progress < 1) {
+          const delay = 35 + progress * 115;
+          setTimeout(() => requestAnimationFrame(frame), delay);
+        } else {
+          showItem(finalItem);
+          statusEl.textContent = "Treffer gezogen.";
+          button.disabled = false;
+        }
+      }
+      requestAnimationFrame(frame);
+    }
+
+    async function init() {
+      try {
+        const response = await fetch(CSV_FILE, { cache: "no-store" });
+        if (!response.ok) throw new Error(`CSV konnte nicht geladen werden (${response.status}).`);
+        entries = parseCsv(await response.text());
+        if (!entries.length) throw new Error("Die CSV enthält keine gültigen Einträge.");
+        statusEl.textContent = `${entries.length} Schlagwörter geladen.`;
+        showItem(entries[0]);
+      } catch (err) {
+        statusEl.textContent = err.message;
+        statusEl.classList.add("error");
+        button.disabled = true;
+      }
+    }
+
+    button.addEventListener("click", draw);
+    init();
+  </script>
+</body>
+</html>
