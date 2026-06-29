@@ -1,4 +1,4 @@
-# FWF-Schlagwort-Tombola
+# [FWF-Schlagwort-Tombola](https://adrianartacho.github.io/Schlagwortverzeichnis/)
 
 A tiny static GitHub Pages site that randomly selects an FWF Wissensgebietszweig / Schlagwort from a CSV file and links the result to the FWF Forschungsradar.
 
