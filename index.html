@@ -127,11 +127,14 @@
           return;
         }
         resultsEl.innerHTML = `<h2>${hits.length} FWF-Projekt${hits.length === 1 ? "" : "e"} zu „${esc(item.label)}“</h2>` + hits.map(hit => {
-          const title = hit._str?.projecttitle?.de || hit._str?.projecttitle?.en || "FWF-Projekt";
-          const url = hit._str?.url || FWF_RADAR;
-          const pi = [hit._str?.principalinvestigator?.firstname, hit._str?.principalinvestigator?.lastname].filter(Boolean).join(" ");
-          const fields = hit._str?.researchfields?.de || hit._str?.researchfields?.en || "";
-          return `<article class="project"><a href="${esc(url)}" target="_blank" rel="noopener">${esc(title)}</a><div class="meta">${esc([pi, fields].filter(Boolean).join(" · "))}</div></article>`;
+          // The FWF API returns flat Meilisearch field names with dots, e.g.
+          // hit["_str.projecttitle.de"], not nested objects like hit._str.projecttitle.de.
+          const title = hit["_str.projecttitle.de"] || hit["_str.projecttitle.en"] || hit["_str.grantdoi"] || hit.id || "FWF-Projekt";
+          const url = hit["_str.url"] || FWF_RADAR;
+          const pi = [hit["_str.principalinvestigator.firstname"], hit["_str.principalinvestigator.lastname"]].filter(Boolean).join(" ");
+          const fields = hit["_str.researchfields.de"] || hit["_str.researchfields.en"] || "";
+          const institute = hit["_str.principalinvestigator.researchinstitute.name"] || "";
+          return `<article class="project"><a href="${esc(url)}" target="_blank" rel="noopener">${esc(title)}</a><div class="meta">${esc([pi, institute, fields].filter(Boolean).join(" · "))}</div></article>`;
         }).join("");
       } catch (err) {
         resultsEl.innerHTML = `<h2>API-Suche nicht verfügbar</h2><p class="status error">${esc(err.message)}. Der Link zum Forschungsradar bleibt als Fallback erhalten.</p>`;
