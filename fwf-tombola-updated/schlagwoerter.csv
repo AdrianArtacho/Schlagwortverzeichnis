@@ -1,0 +1,1363 @@
+code,label,path
+101001,Algebra,Naturwissenschaften > Mathematik > Mathematik > Algebra
+101002,Analysis,Naturwissenschaften > Mathematik > Mathematik > Analysis
+101003,Angewandte Geometrie,Naturwissenschaften > Mathematik > Mathematik > Angewandte Geometrie
+101031,Approximationstheorie,Naturwissenschaften > Mathematik > Mathematik > Approximationstheorie
+101004,Biomathematik,Naturwissenschaften > Mathematik > Mathematik > Biomathematik
+101005,Computeralgebra,Naturwissenschaften > Mathematik > Mathematik > Computeralgebra
+101006,Differentialgeometrie,Naturwissenschaften > Mathematik > Mathematik > Differentialgeometrie
+101027,Dynamische Systeme,Naturwissenschaften > Mathematik > Mathematik > Dynamische Systeme
+101007,Finanzmathematik,Naturwissenschaften > Mathematik > Mathematik > Finanzmathematik
+101032,Funktionalanalysis,Naturwissenschaften > Mathematik > Mathematik > Funktionalanalysis
+101008,Funktionentheorie,Naturwissenschaften > Mathematik > Mathematik > Funktionentheorie
+101009,Geometrie,Naturwissenschaften > Mathematik > Mathematik > Geometrie
+101010,Geschichte der Mathematik,Naturwissenschaften > Mathematik > Mathematik > Geschichte der Mathematik
+101011,Graphentheorie,Naturwissenschaften > Mathematik > Mathematik > Graphentheorie
+101012,Kombinatorik,Naturwissenschaften > Mathematik > Mathematik > Kombinatorik
+101013,Mathematische Logik,Naturwissenschaften > Mathematik > Mathematik > Mathematische Logik
+101028,Mathematische Modellierung,Naturwissenschaften > Mathematik > Mathematik > Mathematische Modellierung
+101029,Mathematische Statistik,Naturwissenschaften > Mathematik > Mathematik > Mathematische Statistik
+101014,Numerische Mathematik,Naturwissenschaften > Mathematik > Mathematik > Numerische Mathematik
+101015,Operations Research,Naturwissenschaften > Mathematik > Mathematik > Operations Research
+101016,Optimierung,Naturwissenschaften > Mathematik > Mathematik > Optimierung
+101017,Spieltheorie,Naturwissenschaften > Mathematik > Mathematik > Spieltheorie
+101018,Statistik,Naturwissenschaften > Mathematik > Mathematik > Statistik
+101019,Stochastik,Naturwissenschaften > Mathematik > Mathematik > Stochastik
+101020,Technische Mathematik,Naturwissenschaften > Mathematik > Mathematik > Technische Mathematik
+101021,Theoretische Kybernetik,Naturwissenschaften > Mathematik > Mathematik > Theoretische Kybernetik
+101022,Topologie,Naturwissenschaften > Mathematik > Mathematik > Topologie
+101023,Versicherungsmathematik,Naturwissenschaften > Mathematik > Mathematik > Versicherungsmathematik
+101024,Wahrscheinlichkeitstheorie,Naturwissenschaften > Mathematik > Mathematik > Wahrscheinlichkeitstheorie
+101025,Zahlentheorie,Naturwissenschaften > Mathematik > Mathematik > Zahlentheorie
+101026,Zeitreihenanalyse,Naturwissenschaften > Mathematik > Mathematik > Zeitreihenanalyse
+101030,Zuverlässigkeitstheorie,Naturwissenschaften > Mathematik > Mathematik > Zuverlässigkeitstheorie
+102001,Artificial Intelligence,Naturwissenschaften > Informatik > Informatik > Artificial Intelligence
+102002,Augmented Reality,Naturwissenschaften > Informatik > Informatik > Augmented Reality
+102003,Bildverarbeitung,Naturwissenschaften > Informatik > Informatik > Bildverarbeitung
+102004,Bioinformatik (106005),Naturwissenschaften > Informatik > Informatik > Bioinformatik (106005)
+102032,Computational Intelligence,Naturwissenschaften > Informatik > Informatik > Computational Intelligence
+102005,Computer Aided Design (CAD),Naturwissenschaften > Informatik > Informatik > Computer Aided Design (CAD)
+102006,Computer Supported Cooperative Work (CSCW),Naturwissenschaften > Informatik > Informatik > Computer Supported Cooperative Work (CSCW)
+102007,Computeranimation,Naturwissenschaften > Informatik > Informatik > Computeranimation
+102008,Computergraphik,Naturwissenschaften > Informatik > Informatik > Computergraphik
+102009,Computersimulation,Naturwissenschaften > Informatik > Informatik > Computersimulation
+102034,Cyber-Physical Systems,Naturwissenschaften > Informatik > Informatik > Cyber-Physical Systems
+102033,Data Mining,Naturwissenschaften > Informatik > Informatik > Data Mining
+102035,Data Science,Naturwissenschaften > Informatik > Informatik > Data Science
+102010,Datenbanksysteme,Naturwissenschaften > Informatik > Informatik > Datenbanksysteme
+102036,Digitale Barrierefreiheit,Naturwissenschaften > Informatik > Informatik > Digitale Barrierefreiheit
+102011,Formale Sprachen,Naturwissenschaften > Informatik > Informatik > Formale Sprachen
+102012,Geschichte der Informatik,Naturwissenschaften > Informatik > Informatik > Geschichte der Informatik
+102013,Human-Computer Interaction,Naturwissenschaften > Informatik > Informatik > Human-Computer Interaction
+102014,Informationsdesign,Naturwissenschaften > Informatik > Informatik > Informationsdesign
+102015,Informationssysteme,Naturwissenschaften > Informatik > Informatik > Informationssysteme
+102016,IT-Sicherheit,Naturwissenschaften > Informatik > Informatik > IT-Sicherheit
+102028,Knowledge Engineering,Naturwissenschaften > Informatik > Informatik > Knowledge Engineering
+102017,Kryptologie,Naturwissenschaften > Informatik > Informatik > Kryptologie
+102018,Künstliche Neuronale Netze,Naturwissenschaften > Informatik > Informatik > Künstliche Neuronale Netze
+102019,Machine Learning,Naturwissenschaften > Informatik > Informatik > Machine Learning
+102020,Medizinische Informatik (305905),Naturwissenschaften > Informatik > Informatik > Medizinische Informatik (305905)
+102021,Pervasive Computing,Naturwissenschaften > Informatik > Informatik > Pervasive Computing
+102029,Praktische Informatik,Naturwissenschaften > Informatik > Informatik > Praktische Informatik
+102030,Semantische Technologien,Naturwissenschaften > Informatik > Informatik > Semantische Technologien
+102022,Softwareentwicklung,Naturwissenschaften > Informatik > Informatik > Softwareentwicklung
+102023,Supercomputing,Naturwissenschaften > Informatik > Informatik > Supercomputing
+102031,Theoretische Informatik,Naturwissenschaften > Informatik > Informatik > Theoretische Informatik
+102024,Usability Research,Naturwissenschaften > Informatik > Informatik > Usability Research
+102025,Verteilte Systeme,Naturwissenschaften > Informatik > Informatik > Verteilte Systeme
+102026,Virtual Reality,Naturwissenschaften > Informatik > Informatik > Virtual Reality
+102037,Visualisierung,Naturwissenschaften > Informatik > Informatik > Visualisierung
+102027,Web Engineering,Naturwissenschaften > Informatik > Informatik > Web Engineering
+103001,Aerodynamik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Aerodynamik"
+103039,Aerosolphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Aerosolphysik"
+103002,Akustik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Akustik"
+103003,Astronomie,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Astronomie"
+103004,Astrophysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Astrophysik"
+103041,Astroteilchenphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Astroteilchenphysik"
+103005,Atomphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Atomphysik"
+103006,Chemische Physik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Chemische Physik"
+103043,Computational Physics,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Computational Physics"
+103007,Dosimetrie,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Dosimetrie"
+103042,Elektronenmikroskopie,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Elektronenmikroskopie"
+103008,Experimentalphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Experimentalphysik"
+103009,Festkörperphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Festkörperphysik"
+103010,Geschichte der Physik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Geschichte der Physik"
+103011,Halbleiterphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Halbleiterphysik"
+103012,Hochenergiephysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Hochenergiephysik"
+103013,Ionenphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Ionenphysik"
+103014,Kernphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Kernphysik"
+103015,Kondensierte Materie,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Kondensierte Materie"
+103044,Kosmologie,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Kosmologie"
+103016,Laserphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Laserphysik"
+103017,Magnetismus,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Magnetismus"
+103018,Materialphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Materialphysik"
+103019,Mathematische Physik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Mathematische Physik"
+103020,Oberflächenphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Oberflächenphysik"
+103021,Optik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Optik"
+103040,Photonik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Photonik"
+103022,Plasmaphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Plasmaphysik"
+103023,Polymerphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Polymerphysik"
+103024,Quantenfeldtheorie,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Quantenfeldtheorie"
+103025,Quantenmechanik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Quantenmechanik"
+103026,Quantenoptik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Quantenoptik"
+103027,Reaktorphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Reaktorphysik"
+103028,Relativitätstheorie,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Relativitätstheorie"
+103029,Statistische Physik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Statistische Physik"
+103030,Strahlenphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Strahlenphysik"
+103031,Strahlenschutz (302079),"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Strahlenschutz (302079)"
+103032,Strömungslehre,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Strömungslehre"
+103033,Supraleitung,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Supraleitung"
+103034,Teilchenphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Teilchenphysik"
+103035,Theoretische Mechanik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Theoretische Mechanik"
+103036,Theoretische Physik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Theoretische Physik"
+103037,Umweltphysik,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Umweltphysik"
+103038,Weltraumforschung,"Naturwissenschaften > Physik, Astronomie > Physik, Astronomie > Weltraumforschung"
+104001,Allgemeine Chemie,Naturwissenschaften > Chemie > Chemie > Allgemeine Chemie
+104002,Analytische Chemie,Naturwissenschaften > Chemie > Chemie > Analytische Chemie
+104003,Anorganische Chemie,Naturwissenschaften > Chemie > Chemie > Anorganische Chemie
+104004,Chemische Biologie,Naturwissenschaften > Chemie > Chemie > Chemische Biologie
+104027,Computational Chemistry,Naturwissenschaften > Chemie > Chemie > Computational Chemistry
+104005,Elektrochemie,Naturwissenschaften > Chemie > Chemie > Elektrochemie
+104006,Festkörperchemie,Naturwissenschaften > Chemie > Chemie > Festkörperchemie
+104007,Geschichte der Chemie,Naturwissenschaften > Chemie > Chemie > Geschichte der Chemie
+104008,Katalyse,Naturwissenschaften > Chemie > Chemie > Katalyse
+104009,Lebensmittelchemie,Naturwissenschaften > Chemie > Chemie > Lebensmittelchemie
+104010,Makromolekulare Chemie,Naturwissenschaften > Chemie > Chemie > Makromolekulare Chemie
+104011,Materialchemie,Naturwissenschaften > Chemie > Chemie > Materialchemie
+104012,Mikroanalyse,Naturwissenschaften > Chemie > Chemie > Mikroanalyse
+104013,Naturstoffchemie,Naturwissenschaften > Chemie > Chemie > Naturstoffchemie
+104014,Oberflächenchemie,Naturwissenschaften > Chemie > Chemie > Oberflächenchemie
+104015,Organische Chemie,Naturwissenschaften > Chemie > Chemie > Organische Chemie
+104016,Photochemie,Naturwissenschaften > Chemie > Chemie > Photochemie
+104017,Physikalische Chemie,Naturwissenschaften > Chemie > Chemie > Physikalische Chemie
+104018,Polymerchemie,Naturwissenschaften > Chemie > Chemie > Polymerchemie
+104019,Polymerwissenschaften,Naturwissenschaften > Chemie > Chemie > Polymerwissenschaften
+104020,Radiochemie,Naturwissenschaften > Chemie > Chemie > Radiochemie
+104024,Röntgenstrukturanalyse,Naturwissenschaften > Chemie > Chemie > Röntgenstrukturanalyse
+104025,Single-Molecule Chemistry,Naturwissenschaften > Chemie > Chemie > Single-Molecule Chemistry
+104026,Spektroskopie,Naturwissenschaften > Chemie > Chemie > Spektroskopie
+104021,Strukturchemie,Naturwissenschaften > Chemie > Chemie > Strukturchemie
+104022,Theoretische Chemie,Naturwissenschaften > Chemie > Chemie > Theoretische Chemie
+104023,Umweltchemie,Naturwissenschaften > Chemie > Chemie > Umweltchemie
+105101,Allgemeine Geologie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Allgemeine Geologie"
+105102,Allgemeine Geophysik,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Allgemeine Geophysik"
+105126,Angewandte Geophysik,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Angewandte Geophysik"
+105103,Erdölgeologie (207306),"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Erdölgeologie (207306)"
+105104,Erosion,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Erosion"
+105105,Geochemie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Geochemie"
+105127,Geochronologie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Geochronologie"
+105106,Geodynamik,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Geodynamik"
+105107,Geoelektrik,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Geoelektrik"
+105128,Geomikrobiologie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Geomikrobiologie"
+105108,Geostatistik,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Geostatistik"
+105109,Geothermik,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Geothermik"
+105110,Geschichte der Geologie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Geschichte der Geologie"
+105111,Gravimetrie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Gravimetrie"
+105112,Historische Geologie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Historische Geologie"
+105113,Kristallographie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Kristallographie"
+105114,Kulturgeologie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Kulturgeologie"
+105115,Magnetik,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Magnetik"
+105116,Mineralogie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Mineralogie"
+105117,Paläobotanik,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Paläobotanik"
+105118,Paläontologie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Paläontologie"
+105119,Petrographie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Petrographie"
+105120,Petrologie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Petrologie"
+105125,Petrophysik,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Petrophysik"
+105121,Sedimentologie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Sedimentologie"
+105122,Seismik,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Seismik"
+105123,Stratigraphie,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Stratigraphie"
+105124,Tektonik,"Naturwissenschaften > Geowissenschaften > Geologie, Mineralogie > Tektonik"
+105201,Aeronomie,"Naturwissenschaften > Geowissenschaften > Meteorologie, Klimatologie > Aeronomie"
+105202,Agrarmeteorologie,"Naturwissenschaften > Geowissenschaften > Meteorologie, Klimatologie > Agrarmeteorologie"
+105208,Atmosphärenchemie,"Naturwissenschaften > Geowissenschaften > Meteorologie, Klimatologie > Atmosphärenchemie"
+105203,Bioklimatologie,"Naturwissenschaften > Geowissenschaften > Meteorologie, Klimatologie > Bioklimatologie"
+105207,Gebirgsmeteorologie,"Naturwissenschaften > Geowissenschaften > Meteorologie, Klimatologie > Gebirgsmeteorologie"
+105204,Klimatologie,"Naturwissenschaften > Geowissenschaften > Meteorologie, Klimatologie > Klimatologie"
+105205,Klimawandel,"Naturwissenschaften > Geowissenschaften > Meteorologie, Klimatologie > Klimawandel"
+105206,Meteorologie,"Naturwissenschaften > Geowissenschaften > Meteorologie, Klimatologie > Meteorologie"
+105301,Gewässerschutz,Naturwissenschaften > Geowissenschaften > Hydrologie > Gewässerschutz
+105302,Hydrochemie,Naturwissenschaften > Geowissenschaften > Hydrologie > Hydrochemie
+105303,Hydrogeologie,Naturwissenschaften > Geowissenschaften > Hydrologie > Hydrogeologie
+105304,Hydrologie,Naturwissenschaften > Geowissenschaften > Hydrologie > Hydrologie
+105305,Hydrometrie,Naturwissenschaften > Geowissenschaften > Hydrologie > Hydrometrie
+105306,Ozeanographie,Naturwissenschaften > Geowissenschaften > Hydrologie > Ozeanographie
+105307,Wassergüte,Naturwissenschaften > Geowissenschaften > Hydrologie > Wassergüte
+105308,Wasserressourcen,Naturwissenschaften > Geowissenschaften > Hydrologie > Wasserressourcen
+105401,Biogeographie,Naturwissenschaften > Geowissenschaften > Physische Geographie > Biogeographie
+105402,Bodengeographie,Naturwissenschaften > Geowissenschaften > Physische Geographie > Bodengeographie
+105403,"Geoinformatik (207404, 507003)","Naturwissenschaften > Geowissenschaften > Physische Geographie > Geoinformatik (207404, 507003)"
+105404,Geomorphologie,Naturwissenschaften > Geowissenschaften > Physische Geographie > Geomorphologie
+105405,Geoökologie,Naturwissenschaften > Geowissenschaften > Physische Geographie > Geoökologie
+105406,Geschichte der Geographie (507004),Naturwissenschaften > Geowissenschaften > Physische Geographie > Geschichte der Geographie (507004)
+105407,"Kartographie (207406, 507028)","Naturwissenschaften > Geowissenschaften > Physische Geographie > Kartographie (207406, 507028)"
+105408,Physische Geographie,Naturwissenschaften > Geowissenschaften > Physische Geographie > Physische Geographie
+105409,Topographie,Naturwissenschaften > Geowissenschaften > Physische Geographie > Topographie
+105901,Glaziologie,Naturwissenschaften > Geowissenschaften > Sonstige und Interdisziplinäre > Glaziologie
+105902,Naturgefahren,Naturwissenschaften > Geowissenschaften > Sonstige und Interdisziplinäre > Naturgefahren
+105907,Polarforschung,Naturwissenschaften > Geowissenschaften > Sonstige und Interdisziplinäre > Polarforschung
+105903,Speläologie,Naturwissenschaften > Geowissenschaften > Sonstige und Interdisziplinäre > Speläologie
+105904,Umweltforschung,Naturwissenschaften > Geowissenschaften > Sonstige und Interdisziplinäre > Umweltforschung
+105906,Umweltgeowissenschaften,Naturwissenschaften > Geowissenschaften > Sonstige und Interdisziplinäre > Umweltgeowissenschaften
+105905,Umweltschutz,Naturwissenschaften > Geowissenschaften > Sonstige und Interdisziplinäre > Umweltschutz
+106011,"3R (Replacement, Reduction, Refinement von Tierversuchen)","Naturwissenschaften > Biologie > Biologie > 3R (Replacement, Reduction, Refinement von Tierversuchen)"
+106055,Aerobiologie,Naturwissenschaften > Biologie > Biologie > Aerobiologie
+106001,Allgemeine Biologie,Naturwissenschaften > Biologie > Biologie > Allgemeine Biologie
+106002,Biochemie,Naturwissenschaften > Biologie > Biologie > Biochemie
+106003,Biodiversitätsforschung,Naturwissenschaften > Biologie > Biologie > Biodiversitätsforschung
+106004,Bioethik,Naturwissenschaften > Biologie > Biologie > Bioethik
+106005,Bioinformatik (102004),Naturwissenschaften > Biologie > Biologie > Bioinformatik (102004)
+106056,Biologische Anthropologie,Naturwissenschaften > Biologie > Biologie > Biologische Anthropologie
+106006,Biophysik,Naturwissenschaften > Biologie > Biologie > Biophysik
+106007,Biostatistik,Naturwissenschaften > Biologie > Biologie > Biostatistik
+106058,Bodenbiologie,Naturwissenschaften > Biologie > Biologie > Bodenbiologie
+106008,Botanik,Naturwissenschaften > Biologie > Biologie > Botanik
+106009,Chronobiologie,Naturwissenschaften > Biologie > Biologie > Chronobiologie
+106010,Entwicklungsbiologie,Naturwissenschaften > Biologie > Biologie > Entwicklungsbiologie
+106012,Evolutionsforschung,Naturwissenschaften > Biologie > Biologie > Evolutionsforschung
+106013,Genetik,Naturwissenschaften > Biologie > Biologie > Genetik
+106014,Genomik,Naturwissenschaften > Biologie > Biologie > Genomik
+106015,Geobotanik,Naturwissenschaften > Biologie > Biologie > Geobotanik
+106016,Geschichte der Biologie,Naturwissenschaften > Biologie > Biologie > Geschichte der Biologie
+106017,Glykobiologie,Naturwissenschaften > Biologie > Biologie > Glykobiologie
+106018,Humanbiologie,Naturwissenschaften > Biologie > Biologie > Humanbiologie
+106019,Hydrobiologie,Naturwissenschaften > Biologie > Biologie > Hydrobiologie
+106020,Limnologie,Naturwissenschaften > Biologie > Biologie > Limnologie
+106021,Meeresbiologie,Naturwissenschaften > Biologie > Biologie > Meeresbiologie
+106057,Metabolomik,Naturwissenschaften > Biologie > Biologie > Metabolomik
+106022,Mikrobiologie,Naturwissenschaften > Biologie > Biologie > Mikrobiologie
+106059,Mikrobiomforschung,Naturwissenschaften > Biologie > Biologie > Mikrobiomforschung
+106023,Molekularbiologie,Naturwissenschaften > Biologie > Biologie > Molekularbiologie
+106024,Mykologie,Naturwissenschaften > Biologie > Biologie > Mykologie
+106025,Neurobiologie (301402),Naturwissenschaften > Biologie > Biologie > Neurobiologie (301402)
+106026,Ökosystemforschung,Naturwissenschaften > Biologie > Biologie > Ökosystemforschung
+106027,Ökotoxikologie,Naturwissenschaften > Biologie > Biologie > Ökotoxikologie
+106028,Pflanzenanatomie,Naturwissenschaften > Biologie > Biologie > Pflanzenanatomie
+106029,Pflanzenmorphologie,Naturwissenschaften > Biologie > Biologie > Pflanzenmorphologie
+106030,Pflanzenökologie,Naturwissenschaften > Biologie > Biologie > Pflanzenökologie
+106031,Pflanzenphysiologie,Naturwissenschaften > Biologie > Biologie > Pflanzenphysiologie
+106032,Photobiologie,Naturwissenschaften > Biologie > Biologie > Photobiologie
+106033,Phylogenie,Naturwissenschaften > Biologie > Biologie > Phylogenie
+106034,Phytochemie,Naturwissenschaften > Biologie > Biologie > Phytochemie
+106035,Phytogeographie,Naturwissenschaften > Biologie > Biologie > Phytogeographie
+106036,Populationsgenetik,Naturwissenschaften > Biologie > Biologie > Populationsgenetik
+106037,Proteomik,Naturwissenschaften > Biologie > Biologie > Proteomik
+106038,Reproduktionsbiologie,Naturwissenschaften > Biologie > Biologie > Reproduktionsbiologie
+106039,Stammzellenforschung,Naturwissenschaften > Biologie > Biologie > Stammzellenforschung
+106040,Strahlenbiologie,Naturwissenschaften > Biologie > Biologie > Strahlenbiologie
+106041,Strukturbiologie,Naturwissenschaften > Biologie > Biologie > Strukturbiologie
+106042,Systematische Botanik,Naturwissenschaften > Biologie > Biologie > Systematische Botanik
+106043,Systematische Zoologie,Naturwissenschaften > Biologie > Biologie > Systematische Zoologie
+106044,Systembiologie,Naturwissenschaften > Biologie > Biologie > Systembiologie
+106045,Theoretische Biologie,Naturwissenschaften > Biologie > Biologie > Theoretische Biologie
+106046,Tieranatomie,Naturwissenschaften > Biologie > Biologie > Tieranatomie
+106060,Tierethik,Naturwissenschaften > Biologie > Biologie > Tierethik
+106047,Tierökologie,Naturwissenschaften > Biologie > Biologie > Tierökologie
+106048,Tierphysiologie,Naturwissenschaften > Biologie > Biologie > Tierphysiologie
+106049,Ultrastrukturforschung,Naturwissenschaften > Biologie > Biologie > Ultrastrukturforschung
+106050,Vegetationskunde,Naturwissenschaften > Biologie > Biologie > Vegetationskunde
+106051,Verhaltensbiologie,Naturwissenschaften > Biologie > Biologie > Verhaltensbiologie
+106052,Zellbiologie (301114),Naturwissenschaften > Biologie > Biologie > Zellbiologie (301114)
+106053,Zoogeographie,Naturwissenschaften > Biologie > Biologie > Zoogeographie
+106054,Zoologie,Naturwissenschaften > Biologie > Biologie > Zoologie
+107008,Archäobotanik,Naturwissenschaften > Andere Naturwissenschaften > Andere Naturwissenschaften > Archäobotanik
+107001,Archäometrie,Naturwissenschaften > Andere Naturwissenschaften > Andere Naturwissenschaften > Archäometrie
+107009,Archäozoologie,Naturwissenschaften > Andere Naturwissenschaften > Andere Naturwissenschaften > Archäozoologie
+107002,Bionik (211905),Naturwissenschaften > Andere Naturwissenschaften > Andere Naturwissenschaften > Bionik (211905)
+107010,Geoarchäologie,Naturwissenschaften > Andere Naturwissenschaften > Andere Naturwissenschaften > Geoarchäologie
+107003,Geschichte der Naturwissenschaften,Naturwissenschaften > Andere Naturwissenschaften > Andere Naturwissenschaften > Geschichte der Naturwissenschaften
+107004,Humanökologie,Naturwissenschaften > Andere Naturwissenschaften > Andere Naturwissenschaften > Humanökologie
+107005,Lebensmitteluntersuchung (402009),Naturwissenschaften > Andere Naturwissenschaften > Andere Naturwissenschaften > Lebensmitteluntersuchung (402009)
+107006,Naturschutz,Naturwissenschaften > Andere Naturwissenschaften > Andere Naturwissenschaften > Naturschutz
+107007,Risikoforschung (211914),Naturwissenschaften > Andere Naturwissenschaften > Andere Naturwissenschaften > Risikoforschung (211914)
+201101,Baubetrieb,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Baubetrieb
+201102,Baudynamik,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Baudynamik
+201131,Baugeschichte,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Baugeschichte
+201103,Bauphysik,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Bauphysik
+201104,Baustatik,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Baustatik
+201105,Baustofflehre,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Baustofflehre
+201106,Bautechnik,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Bautechnik
+201107,Betriebsfestigkeit (203002),Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Betriebsfestigkeit (203002)
+201108,Bruchmechanik (203003),Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Bruchmechanik (203003)
+201109,Brückenbau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Brückenbau
+201132,Computational Engineering (203037),Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Computational Engineering (203037)
+201129,Erdbebeningenieurwesen,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Erdbebeningenieurwesen
+201110,Festigkeitslehre (203007),Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Festigkeitslehre (203007)
+201111,Flussbau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Flussbau
+201112,Hochbau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Hochbau
+201113,Holzbau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Holzbau
+201114,Industriebau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Industriebau
+201130,Konstruktiver Glasbau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Konstruktiver Glasbau
+201115,Konstruktiver Wasserbau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Konstruktiver Wasserbau
+201116,Landwirtschaftliches Bauwesen,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Landwirtschaftliches Bauwesen
+201117,Leichtbau (203011),Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Leichtbau (203011)
+201128,Nachhaltiges Bauen,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Nachhaltiges Bauen
+201118,Siedlungswasserbau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Siedlungswasserbau
+201119,Stahlbau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Stahlbau
+201120,Stahlbetonbau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Stahlbetonbau
+201121,Straßenbau (201304),Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Straßenbau (201304)
+201122,Technischer Hochwasserschutz,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Technischer Hochwasserschutz
+201123,Tiefbau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Tiefbau
+201124,Tragwerkslehre,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Tragwerkslehre
+201125,Wasserbau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Wasserbau
+201126,Wasserkraftanlagenbau,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Wasserkraftanlagenbau
+201127,Wildbach- und Lawinenverbauung,Technische Wissenschaften > Bauwesen > Bauingenieurwesen > Wildbach- und Lawinenverbauung
+201201,Architekturgeschichte,Technische Wissenschaften > Bauwesen > Architektur > Architekturgeschichte
+201202,Architekturmodellbau,Technische Wissenschaften > Bauwesen > Architektur > Architekturmodellbau
+201203,Architekturtheorie,Technische Wissenschaften > Bauwesen > Architektur > Architekturtheorie
+201204,Barrierefreies Bauen,Technische Wissenschaften > Bauwesen > Architektur > Barrierefreies Bauen
+201205,Bauforschung,Technische Wissenschaften > Bauwesen > Architektur > Bauforschung
+201215,Baukulturelles Erbe,Technische Wissenschaften > Bauwesen > Architektur > Baukulturelles Erbe
+201206,Entwerfen,Technische Wissenschaften > Bauwesen > Architektur > Entwerfen
+201214,Experimentelle Architektur,Technische Wissenschaften > Bauwesen > Architektur > Experimentelle Architektur
+201207,Gebäudelehre,Technische Wissenschaften > Bauwesen > Architektur > Gebäudelehre
+201208,Industriearchitektur,Technische Wissenschaften > Bauwesen > Architektur > Industriearchitektur
+201209,Innenarchitektur,Technische Wissenschaften > Bauwesen > Architektur > Innenarchitektur
+201210,Landschaftsarchitektur,Technische Wissenschaften > Bauwesen > Architektur > Landschaftsarchitektur
+201211,Solararchitektur,Technische Wissenschaften > Bauwesen > Architektur > Solararchitektur
+201212,Städtebau,Technische Wissenschaften > Bauwesen > Architektur > Städtebau
+201213,Wohnbau,Technische Wissenschaften > Bauwesen > Architektur > Wohnbau
+201301,Bahnbau,Technische Wissenschaften > Bauwesen > Verkehrswesen > Bahnbau
+201302,Eisenbahnwesen,Technische Wissenschaften > Bauwesen > Verkehrswesen > Eisenbahnwesen
+201303,Seilbahnwesen,Technische Wissenschaften > Bauwesen > Verkehrswesen > Seilbahnwesen
+201304,Straßenbau (201121),Technische Wissenschaften > Bauwesen > Verkehrswesen > Straßenbau (201121)
+201305,Verkehrstechnik,Technische Wissenschaften > Bauwesen > Verkehrswesen > Verkehrstechnik
+201306,Verkehrstelematik,Technische Wissenschaften > Bauwesen > Verkehrswesen > Verkehrstelematik
+201307,Verkehrswirtschaft (509016),Technische Wissenschaften > Bauwesen > Verkehrswesen > Verkehrswirtschaft (509016)
+201901,Altbausanierung,Technische Wissenschaften > Bauwesen > Sonstiges Bauwesen > Altbausanierung
+201905,Bauen im Bestand,Technische Wissenschaften > Bauwesen > Sonstiges Bauwesen > Bauen im Bestand
+201902,Bauökologie,Technische Wissenschaften > Bauwesen > Sonstiges Bauwesen > Bauökologie
+201906,Bauwerksbegrünung,Technische Wissenschaften > Bauwesen > Sonstiges Bauwesen > Bauwerksbegrünung
+201903,Ingenieurbiologie,Technische Wissenschaften > Bauwesen > Sonstiges Bauwesen > Ingenieurbiologie
+201904,Vegetationstechnik,Technische Wissenschaften > Bauwesen > Sonstiges Bauwesen > Vegetationstechnik
+202001,Audiotechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Audiotechnik"
+202002,Audiovisuelle Medien (508002),"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Audiovisuelle Medien (508002)"
+202003,Automatisierungstechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Automatisierungstechnik"
+202004,Brain-Computer Interface,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Brain-Computer Interface"
+202005,Computer Architektur,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Computer Architektur"
+202006,Computer Hardware,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Computer Hardware"
+202007,Computer Integrated Manufacturing (CIM),"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Computer Integrated Manufacturing (CIM)"
+202008,Elektrische Anlagen,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Elektrische Anlagen"
+202009,Elektrische Antriebstechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Elektrische Antriebstechnik"
+202010,Elektrische Energietechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Elektrische Energietechnik"
+202011,Elektrische Maschinen,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Elektrische Maschinen"
+202012,Elektrische Messtechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Elektrische Messtechnik"
+202013,Elektromagnetische Verträglichkeit,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Elektromagnetische Verträglichkeit"
+202014,Elektromagnetismus,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Elektromagnetismus"
+202015,Elektronik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Elektronik"
+202016,Elektrotechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik"
+202017,Embedded Systems,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Embedded Systems"
+202018,Halbleiterelektronik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Halbleiterelektronik"
+202019,Hochfrequenztechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Hochfrequenztechnik"
+202020,Hochspannungstechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Hochspannungstechnik"
+202021,Industrielle Elektronik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Industrielle Elektronik"
+202022,Informationstechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Informationstechnik"
+202023,Integrierte Schaltkreise,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Integrierte Schaltkreise"
+202024,Lasertechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Lasertechnik"
+202025,Leistungselektronik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Leistungselektronik"
+202026,Lichttechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Lichttechnik"
+202027,Mechatronik (203015),"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Mechatronik (203015)"
+202028,Mikroelektronik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Mikroelektronik"
+202029,Mikrowellentechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Mikrowellentechnik"
+202030,Nachrichtentechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Nachrichtentechnik"
+202043,Netzwerksicherheit,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Netzwerksicherheit"
+202031,Netzwerktechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Netzwerktechnik"
+202042,Optische Nachrichtentechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Optische Nachrichtentechnik"
+202032,Photovoltaik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Photovoltaik"
+202033,Radartechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Radartechnik"
+202034,Regelungstechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Regelungstechnik"
+202035,Robotik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Robotik"
+202036,Sensorik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Sensorik"
+202037,Signalverarbeitung,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Signalverarbeitung"
+202041,Technische Informatik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Technische Informatik"
+202038,Telekommunikation,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Telekommunikation"
+202039,Theoretische Elektrotechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Theoretische Elektrotechnik"
+202040,Übertragungstechnik,"Technische Wissenschaften > Elektrotechnik, Elektronik, Informationstechnik > Elektrotechnik, Elektronik, Informationstechnik > Übertragungstechnik"
+203001,Apparatebau,Technische Wissenschaften > Maschinenbau > Maschinenbau > Apparatebau
+203002,Betriebsfestigkeit (201107),Technische Wissenschaften > Maschinenbau > Maschinenbau > Betriebsfestigkeit (201107)
+203030,Brennstoffzellentechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Brennstoffzellentechnik
+203003,Bruchmechanik (201108),Technische Wissenschaften > Maschinenbau > Maschinenbau > Bruchmechanik (201108)
+203037,Computational Engineering (201132),Technische Wissenschaften > Maschinenbau > Maschinenbau > Computational Engineering (201132)
+203004,Fahrzeugtechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Fahrzeugtechnik
+203005,Feinwerktechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Feinwerktechnik
+203006,Fertigungstechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Fertigungstechnik
+203007,Festigkeitslehre (201110),Technische Wissenschaften > Maschinenbau > Maschinenbau > Festigkeitslehre (201110)
+203008,Fördertechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Fördertechnik
+203032,Generative Fertigungsverfahren,Technische Wissenschaften > Maschinenbau > Maschinenbau > Generative Fertigungsverfahren
+203033,Hydraulische Antriebstechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Hydraulische Antriebstechnik
+203009,Kältetechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Kältetechnik
+203010,Klimatechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Klimatechnik
+203031,Konstruktionslehre,Technische Wissenschaften > Maschinenbau > Maschinenbau > Konstruktionslehre
+203034,Kontinuumsmechanik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Kontinuumsmechanik
+203011,Leichtbau (201117),Technische Wissenschaften > Maschinenbau > Maschinenbau > Leichtbau (201117)
+203012,Luftfahrttechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Luftfahrttechnik
+203038,Lüftungstechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Lüftungstechnik
+203013,Maschinenbau,Technische Wissenschaften > Maschinenbau > Maschinenbau > Maschinenbau
+203014,Maschinendynamik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Maschinendynamik
+203015,Mechatronik (202027),Technische Wissenschaften > Maschinenbau > Maschinenbau > Mechatronik (202027)
+203016,Messtechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Messtechnik
+203017,Mikromechanik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Mikromechanik
+203018,Montanmaschinenbau,Technische Wissenschaften > Maschinenbau > Maschinenbau > Montanmaschinenbau
+203019,Reaktortechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Reaktortechnik
+203020,Schweißtechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Schweißtechnik
+203021,Strömungsmaschinen,Technische Wissenschaften > Maschinenbau > Maschinenbau > Strömungsmaschinen
+203022,Technische Mechanik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Technische Mechanik
+203023,Thermische Turbomaschinen,Technische Wissenschaften > Maschinenbau > Maschinenbau > Thermische Turbomaschinen
+203024,Thermodynamik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Thermodynamik
+203035,Thermoprozesstechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Thermoprozesstechnik
+203025,Tribologie,Technische Wissenschaften > Maschinenbau > Maschinenbau > Tribologie
+203026,Umformtechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Umformtechnik
+203027,Verbrennungskraftmaschinen,Technische Wissenschaften > Maschinenbau > Maschinenbau > Verbrennungskraftmaschinen
+203036,Waffen- und Munitionstechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Waffen- und Munitionstechnik
+203028,Wärmetechnik,Technische Wissenschaften > Maschinenbau > Maschinenbau > Wärmetechnik
+203029,Werkzeugbau,Technische Wissenschaften > Maschinenbau > Maschinenbau > Werkzeugbau
+204001,Anorganisch-chemische Technologie,Technische Wissenschaften > Chemische Verfahrenstechnik > Chemische Verfahrenstechnik > Anorganisch-chemische Technologie
+204002,Chemische Reaktionstechnik,Technische Wissenschaften > Chemische Verfahrenstechnik > Chemische Verfahrenstechnik > Chemische Reaktionstechnik
+204003,Chemische Verfahrenstechnik,Technische Wissenschaften > Chemische Verfahrenstechnik > Chemische Verfahrenstechnik > Chemische Verfahrenstechnik
+204006,Mechanische Verfahrenstechnik,Technische Wissenschaften > Chemische Verfahrenstechnik > Chemische Verfahrenstechnik > Mechanische Verfahrenstechnik
+204008,Membrantechnologie,Technische Wissenschaften > Chemische Verfahrenstechnik > Chemische Verfahrenstechnik > Membrantechnologie
+204004,Organisch-chemische Technologie,Technische Wissenschaften > Chemische Verfahrenstechnik > Chemische Verfahrenstechnik > Organisch-chemische Technologie
+204005,Raffinerietechnik,Technische Wissenschaften > Chemische Verfahrenstechnik > Chemische Verfahrenstechnik > Raffinerietechnik
+204007,Thermische Verfahrenstechnik,Technische Wissenschaften > Chemische Verfahrenstechnik > Chemische Verfahrenstechnik > Thermische Verfahrenstechnik
+205001,Baustoffprüfung,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Baustoffprüfung
+205002,Beschichtungstechnik,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Beschichtungstechnik
+205003,Feuerfeste Materialien,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Feuerfeste Materialien
+205004,Funktionsmaterialien,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Funktionsmaterialien
+205005,Gesteinshüttenkunde,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Gesteinshüttenkunde
+205006,Holzforschung,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Holzforschung
+205007,Holzschutzmittel,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Holzschutzmittel
+205008,Holztechnologie,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Holztechnologie
+205009,Keramische Werkstoffe,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Keramische Werkstoffe
+205010,Korrosionsschutzmittel,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Korrosionsschutzmittel
+205011,Kunststofftechnik,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Kunststofftechnik
+205012,Kunststoffverarbeitung,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Kunststoffverarbeitung
+205019,Materialwissenschaften,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Materialwissenschaften
+205013,Schadensanalytik,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Schadensanalytik
+205014,Textiltechnik,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Textiltechnik
+205015,Verbundwerkstoffe,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Verbundwerkstoffe
+205016,Werkstoffprüfung,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Werkstoffprüfung
+205017,Werkstofftechnik,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Werkstofftechnik
+205018,Zellstoff- und Papiertechnik,Technische Wissenschaften > Werkstofftechnik > Werkstofftechnik > Zellstoff- und Papiertechnik
+206001,Biomedizinische Technik,Technische Wissenschaften > Medizintechnik > Medizintechnik > Biomedizinische Technik
+206002,Elektromedizinische Technik,Technische Wissenschaften > Medizintechnik > Medizintechnik > Elektromedizinische Technik
+206003,Medizinische Physik (302044),Technische Wissenschaften > Medizintechnik > Medizintechnik > Medizinische Physik (302044)
+206004,Medizintechnik,Technische Wissenschaften > Medizintechnik > Medizintechnik > Medizintechnik
+206005,Prothetik,Technische Wissenschaften > Medizintechnik > Medizintechnik > Prothetik
+206006,Rehabilitationstechnik,Technische Wissenschaften > Medizintechnik > Medizintechnik > Rehabilitationstechnik
+207101,Abfalltechnik,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Abfalltechnik"
+207102,Abluftreinigung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Abluftreinigung"
+207103,Abwasserreinigung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Abwasserreinigung"
+207104,Altlastensanierung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Altlastensanierung"
+207105,Deponietechnik,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Deponietechnik"
+207106,Erneuerbare Energie,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Erneuerbare Energie"
+207107,Luftreinhaltung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Luftreinhaltung"
+207108,Recycling,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Recycling"
+207109,Schadstoffemission,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Schadstoffemission"
+207110,Technischer Umweltschutz,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Technischer Umweltschutz"
+207111,Umwelttechnik,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Umwelttechnik"
+207112,Wasseraufbereitung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Wasseraufbereitung"
+207113,Wasserinfrastruktur,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Wasserinfrastruktur"
+207114,Wasserwirtschaft,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Umwelttechnik > Wasserwirtschaft"
+207201,Bodenmechanik,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Ingenieurgeologie, Geotechnik > Bodenmechanik"
+207202,Erdbau,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Ingenieurgeologie, Geotechnik > Erdbau"
+207203,Felsmechanik,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Ingenieurgeologie, Geotechnik > Felsmechanik"
+207204,Geotechnik,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Ingenieurgeologie, Geotechnik > Geotechnik"
+207205,Grundbau,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Ingenieurgeologie, Geotechnik > Grundbau"
+207206,Ingenieurgeologie,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Ingenieurgeologie, Geotechnik > Ingenieurgeologie"
+207207,Tunnelbau,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Ingenieurgeologie, Geotechnik > Tunnelbau"
+207208,Tunnelbelüftung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Ingenieurgeologie, Geotechnik > Tunnelbelüftung"
+207301,Aufbereitung mineralischer Rohstoffe,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Aufbereitung mineralischer Rohstoffe"
+207302,Bergbaukunde,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Bergbaukunde"
+207303,Bergschadenkunde,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Bergschadenkunde"
+207304,Erdgasgewinnung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Erdgasgewinnung"
+207305,Erdgastechnik,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Erdgastechnik"
+207306,Erdölgeologie (105103),"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Erdölgeologie (105103)"
+207307,Erdölgewinnung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Erdölgewinnung"
+207308,Erdöltechnik,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Erdöltechnik"
+207309,Geschichte des Bergbaus,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Geschichte des Bergbaus"
+207310,Gewinnung mineralischer Rohstoffe,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Gewinnung mineralischer Rohstoffe"
+207311,Lagerstättenkunde,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Lagerstättenkunde"
+207312,Markscheidekunde,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Markscheidekunde"
+207313,Tiefbohrtechnik,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Tiefbohrtechnik"
+207314,Untertagebau,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Bergbau, Erdölgewinnung > Untertagebau"
+207401,3D-Vermessung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > 3D-Vermessung"
+207402,Fernerkundung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > Fernerkundung"
+207403,Geodäsie,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > Geodäsie"
+207404,"Geoinformatik (105403, 507003)","Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > Geoinformatik (105403, 507003)"
+207405,Ingenieurgeodäsie,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > Ingenieurgeodäsie"
+207406,"Kartographie (105407, 507028)","Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > Kartographie (105407, 507028)"
+207407,Katastervermessung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > Katastervermessung"
+207408,Landesvermessung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > Landesvermessung"
+207409,Navigationssysteme,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > Navigationssysteme"
+207410,Photogrammetrie,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > Photogrammetrie"
+207411,Satellitengeodäsie,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > Satellitengeodäsie"
+207412,Satellitengestützte Koordinatenmessung,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > Satellitengestützte Koordinatenmessung"
+207413,Vermessungswesen,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Geodäsie, Vermessungswesen > Vermessungswesen"
+207902,Computational Geosciences,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Sonstiges Umweltingenieurwesen, Angewandte > Computational Geosciences"
+207901,Offshore-Technik,"Technische Wissenschaften > Umweltingenieurwesen, Angewandte > Sonstiges Umweltingenieurwesen, Angewandte > Offshore-Technik"
+208001,Bioremediation,Technische Wissenschaften > Umweltbiotechnologie > Umweltbiotechnologie > Bioremediation
+208002,Ethik in der Umweltbiotechnologie,Technische Wissenschaften > Umweltbiotechnologie > Umweltbiotechnologie > Ethik in der Umweltbiotechnologie
+208003,Umweltbiotechnologie,Technische Wissenschaften > Umweltbiotechnologie > Umweltbiotechnologie > Umweltbiotechnologie
+209001,Biokatalyse,Technische Wissenschaften > Industrielle Biotechnologie > Industrielle Biotechnologie > Biokatalyse
+209002,Bioprozesstechnik,Technische Wissenschaften > Industrielle Biotechnologie > Industrielle Biotechnologie > Bioprozesstechnik
+209003,Biotreibstoffe,Technische Wissenschaften > Industrielle Biotechnologie > Industrielle Biotechnologie > Biotreibstoffe
+209004,Enzymtechnologie,Technische Wissenschaften > Industrielle Biotechnologie > Industrielle Biotechnologie > Enzymtechnologie
+209005,Fermentation (404004),Technische Wissenschaften > Industrielle Biotechnologie > Industrielle Biotechnologie > Fermentation (404004)
+209006,Industrielle Biotechnologie,Technische Wissenschaften > Industrielle Biotechnologie > Industrielle Biotechnologie > Industrielle Biotechnologie
+210001,Nanoanalytik,Technische Wissenschaften > Nanotechnologie > Nanotechnologie > Nanoanalytik
+210002,Nanobiotechnologie,Technische Wissenschaften > Nanotechnologie > Nanotechnologie > Nanobiotechnologie
+210003,Nanoelektronik,Technische Wissenschaften > Nanotechnologie > Nanotechnologie > Nanoelektronik
+210004,Nanomaterialien,Technische Wissenschaften > Nanotechnologie > Nanotechnologie > Nanomaterialien
+210005,Nanophotonik,Technische Wissenschaften > Nanotechnologie > Nanotechnologie > Nanophotonik
+210006,Nanotechnologie,Technische Wissenschaften > Nanotechnologie > Nanotechnologie > Nanotechnologie
+211101,Eisen- und Stahlmetallurgie,Technische Wissenschaften > Andere Technische Wissenschaften > Metallurgie > Eisen- und Stahlmetallurgie
+211102,Gießereitechnik,Technische Wissenschaften > Andere Technische Wissenschaften > Metallurgie > Gießereitechnik
+211106,Leichtmetalle,Technische Wissenschaften > Andere Technische Wissenschaften > Metallurgie > Leichtmetalle
+211103,Metallkunde,Technische Wissenschaften > Andere Technische Wissenschaften > Metallurgie > Metallkunde
+211104,Metallurgie,Technische Wissenschaften > Andere Technische Wissenschaften > Metallurgie > Metallurgie
+211105,Nichteisenmetallurgie,Technische Wissenschaften > Andere Technische Wissenschaften > Metallurgie > Nichteisenmetallurgie
+211107,Sekundärmetallurgie,Technische Wissenschaften > Andere Technische Wissenschaften > Metallurgie > Sekundärmetallurgie
+211204,Fleischtechnologie,Technische Wissenschaften > Andere Technische Wissenschaften > Lebensmitteltechnologie > Fleischtechnologie
+211201,Getreidetechnologie,Technische Wissenschaften > Andere Technische Wissenschaften > Lebensmitteltechnologie > Getreidetechnologie
+211202,Lebensmitteltechnologie,Technische Wissenschaften > Andere Technische Wissenschaften > Lebensmitteltechnologie > Lebensmitteltechnologie
+211203,Lebensmittelverfahrenstechnik,Technische Wissenschaften > Andere Technische Wissenschaften > Lebensmitteltechnologie > Lebensmittelverfahrenstechnik
+211901,Abfallvermeidung,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Abfallvermeidung
+211902,Assistierende Technologien,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Assistierende Technologien
+211903,Betriebswissenschaften,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Betriebswissenschaften
+211904,Biomechanik,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Biomechanik
+211905,Bionik (107002),Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Bionik (107002)
+211906,Brandschutz,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Brandschutz
+211907,Energieeinsparung,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Energieeinsparung
+211908,Energieforschung,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Energieforschung
+211922,Energiespeicherung,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Energiespeicherung
+211909,Energietechnik,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Energietechnik
+211925,Explosionsforschung,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Explosionsforschung
+211923,Fabrikplanung,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Fabrikplanung
+211910,Lärmschutz,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Lärmschutz
+211911,Nachhaltige Technologien,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Nachhaltige Technologien
+211912,Produktgestaltung,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Produktgestaltung
+211924,Prozess- und Anlagensicherheit,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Prozess- und Anlagensicherheit
+211913,Qualitätssicherung,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Qualitätssicherung
+211914,Risikoforschung (107007),Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Risikoforschung (107007)
+211915,Solartechnik,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Solartechnik
+211916,Sprengtechnik,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Sprengtechnik
+211926,Technikethik,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Technikethik
+211917,Technikfolgenabschätzung,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Technikfolgenabschätzung
+211918,Technikgeschichte,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Technikgeschichte
+211919,Thermographie,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Thermographie
+211920,Verpackungstechnik,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Verpackungstechnik
+211921,Zivil- und Katastrophenschutz,Technische Wissenschaften > Andere Technische Wissenschaften > Sonstige Technische Wissenschaften > Zivil- und Katastrophenschutz
+301101,Allgemeine Pathologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Allgemeine Pathologie"
+301102,Anatomie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Anatomie"
+301103,Diagnostik in der Medizin (302013),"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Diagnostik in der Medizin (302013)"
+301104,Embryologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Embryologie"
+301105,Experimentelle Pathologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Experimentelle Pathologie"
+301106,Funktionelle Anatomie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Funktionelle Anatomie"
+301107,Histologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Histologie"
+301108,Molekulare Pathologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Molekulare Pathologie"
+301109,Pathophysiologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Pathophysiologie"
+301110,Physiologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Physiologie"
+301111,Röntgenanatomie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Röntgenanatomie"
+301115,Sonoanatomie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Sonoanatomie"
+301112,Systematische Anatomie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Systematische Anatomie"
+301113,Topographische Anatomie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Topographische Anatomie"
+301114,Zellbiologie (106052),"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Anatomie, Pathologie, Physiologie > Zellbiologie (106052)"
+301201,"Arzneimittel-, Arzneistoffanalyse","Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Arzneimittel-, Arzneistoffanalyse"
+301215,Arzneimittelsicherheit,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Arzneimittelsicherheit"
+301214,Biopharmazie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Biopharmazie"
+301213,Drug Targeting,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Drug Targeting"
+301202,Geschichte der Pharmazie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Geschichte der Pharmazie"
+301212,Klinische Pharmazie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Klinische Pharmazie"
+301203,Pharmakodynamik,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Pharmakodynamik"
+301204,Pharmakognosie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Pharmakognosie"
+301205,Pharmakokinetik,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Pharmakokinetik"
+301206,Pharmakologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Pharmakologie"
+301207,Pharmazeutische Chemie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Pharmazeutische Chemie"
+301208,Pharmazeutische Technologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Pharmazeutische Technologie"
+301209,Pharmazie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Pharmazie"
+301210,Psychopharmakologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Psychopharmakologie"
+301211,Toxikologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Pharmazie, Pharmakologie, Toxikologie > Toxikologie"
+301308,Alternsforschung,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Medizinische Biochemie, Humangenetik > Alternsforschung"
+301301,Humangenetik,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Medizinische Biochemie, Humangenetik > Humangenetik"
+301302,Lipidforschung,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Medizinische Biochemie, Humangenetik > Lipidforschung"
+301303,Medizinische Biochemie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Medizinische Biochemie, Humangenetik > Medizinische Biochemie"
+301304,Medizinische Biologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Medizinische Biochemie, Humangenetik > Medizinische Biologie"
+301305,Medizinische Chemie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Medizinische Biochemie, Humangenetik > Medizinische Chemie"
+301306,Medizinische Molekularbiologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Medizinische Biochemie, Humangenetik > Medizinische Molekularbiologie"
+301307,Zytogenetik,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Medizinische Biochemie, Humangenetik > Zytogenetik"
+301401,Hirnforschung,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Neurowissenschaften > Hirnforschung"
+301409,Neuroanatomie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Neurowissenschaften > Neuroanatomie"
+301402,Neurobiologie (106025),"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Neurowissenschaften > Neurobiologie (106025)"
+301403,Neurochemie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Neurowissenschaften > Neurochemie"
+301404,Neuroimmunologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Neurowissenschaften > Neuroimmunologie"
+301405,Neuropathologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Neurowissenschaften > Neuropathologie"
+301406,Neuropharmakologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Neurowissenschaften > Neuropharmakologie"
+301407,Neurophysiologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Neurowissenschaften > Neurophysiologie"
+301408,Psychophysiologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Neurowissenschaften > Psychophysiologie"
+301907,Biobanking,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Sonstige Medizinisch-theoretische Wissenschaften > Biobanking"
+301901,Blutgruppenserologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Sonstige Medizinisch-theoretische Wissenschaften > Blutgruppenserologie"
+301902,Immunologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Sonstige Medizinisch-theoretische Wissenschaften > Immunologie"
+301903,Impfstoffentwicklung,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Sonstige Medizinisch-theoretische Wissenschaften > Impfstoffentwicklung"
+301904,Krebsforschung,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Sonstige Medizinisch-theoretische Wissenschaften > Krebsforschung"
+301905,Psychoneuroimmunologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Sonstige Medizinisch-theoretische Wissenschaften > Psychoneuroimmunologie"
+301906,Serologie,"Humanmedizin, Gesundheitswissenschaften > Medizinisch-theoretische Wissenschaften, > Sonstige Medizinisch-theoretische Wissenschaften > Serologie"
+302001,Akupunktur,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Akupunktur"
+302002,Allergologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Allergologie"
+302003,Allgemeinchirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Allgemeinchirurgie"
+302090,Allgemeinmedizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Allgemeinmedizin"
+302004,Anästhesiologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Anästhesiologie"
+302005,Andrologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Andrologie"
+302006,Angiologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Angiologie"
+302007,Augenheilkunde,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Augenheilkunde"
+302008,Balneologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Balneologie"
+302009,Chemotherapie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Chemotherapie"
+302010,Computertomographie (CT),"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Computertomographie (CT)"
+302011,Dermatologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Dermatologie"
+302012,Diabetologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Diabetologie"
+302013,Diagnostik in der Medizin (301103),"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Diagnostik in der Medizin (301103)"
+302014,Endokrinologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Endokrinologie"
+302015,Experimentelle Chirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Experimentelle Chirurgie"
+302016,Gastroenterologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Gastroenterologie"
+302017,Geburtshilfe,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Geburtshilfe"
+302018,Gefäßchirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Gefäßchirurgie"
+302019,Geriatrie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Geriatrie"
+302020,Gerontologie (509005),"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Gerontologie (509005)"
+302021,Geschichte der Psychiatrie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Geschichte der Psychiatrie"
+302022,Gynäkologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Gynäkologie"
+302023,"Hals-, Nasen-, Ohrenheilkunde","Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Hals-, Nasen-, Ohrenheilkunde"
+302024,Hämatologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Hämatologie"
+302025,Hepatologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Hepatologie"
+302026,Herzchirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Herzchirurgie"
+302027,"Hör-, Stimm- und Sprachstörungen","Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Hör-, Stimm- und Sprachstörungen"
+302028,Hyperbare Medizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Hyperbare Medizin"
+302091,Immuntherapie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Immuntherapie"
+302029,Implantologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Implantologie"
+302030,Innere Medizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Innere Medizin"
+302031,Intensivmedizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Intensivmedizin"
+302032,Kardiologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Kardiologie"
+302033,Kieferchirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Kieferchirurgie"
+302034,Kieferorthopädie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Kieferorthopädie"
+302035,Kinder- und Jugendheilkunde,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Kinder- und Jugendheilkunde"
+302036,Kinder- und Jugendpsychiatrie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Kinder- und Jugendpsychiatrie"
+302037,Kinderchirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Kinderchirurgie"
+302038,Klinische Neuropsychologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Klinische Neuropsychologie"
+302039,Komplementärmedizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Komplementärmedizin"
+302040,Labordiagnostik,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Labordiagnostik"
+302041,Laserchirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Laserchirurgie"
+302042,Logopädie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Logopädie"
+302043,Magnetresonanztomographie (MRT),"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Magnetresonanztomographie (MRT)"
+302044,Medizinische Physik (206003),"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Medizinische Physik (206003)"
+302045,Medizinische Psychologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Medizinische Psychologie"
+302046,Medizinische Psychotherapie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Medizinische Psychotherapie"
+302047,Mikrochirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Mikrochirurgie"
+302048,Minimal-invasive Chirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Minimal-invasive Chirurgie"
+302049,Neonatologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Neonatologie"
+302050,Nephrologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Nephrologie"
+302051,Neurochirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Neurochirurgie"
+302052,Neurologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Neurologie"
+302053,Notfallmedizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Notfallmedizin"
+302054,Nuklearmedizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Nuklearmedizin"
+302055,Onkologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Onkologie"
+302056,Onkologische Chirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Onkologische Chirurgie"
+302092,Orale Chirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Orale Chirurgie"
+302057,Orthopädie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Orthopädie"
+302058,Palliativmedizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Palliativmedizin"
+302059,Parodontologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Parodontologie"
+302060,Perinatologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Perinatologie"
+302061,Physikalische Medizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Physikalische Medizin"
+302062,Plastische und Rekonstruktive Chirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Plastische und Rekonstruktive Chirurgie"
+302063,Polytraumaversorgung,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Polytraumaversorgung"
+302064,Pränatale Diagnostik,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Pränatale Diagnostik"
+302065,Psychiatrie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Psychiatrie"
+302066,Psychopathologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Psychopathologie"
+302067,Psychosomatik,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Psychosomatik"
+302068,Pulmologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Pulmologie"
+302069,Radiochirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Radiochirurgie"
+302070,Radiodiagnostik,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Radiodiagnostik"
+302071,Radiologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Radiologie"
+302089,Reproduktionsmedizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Reproduktionsmedizin"
+302072,Rheumatologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Rheumatologie"
+302073,Schlafmedizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Schlafmedizin"
+302074,Schmerzmedizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Schmerzmedizin"
+302075,Sonographie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Sonographie"
+302076,Sozialpsychiatrie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Sozialpsychiatrie"
+302077,Stammzellentransplantation,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Stammzellentransplantation"
+302078,Stoffwechselerkrankungen,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Stoffwechselerkrankungen"
+302079,Strahlenschutz (103031),"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Strahlenschutz (103031)"
+302080,Strahlentherapie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Strahlentherapie"
+302081,Thoraxchirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Thoraxchirurgie"
+302082,Transfusionsmedizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Transfusionsmedizin"
+302083,Transplantationschirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Transplantationschirurgie"
+302084,Transplantationsmedizin,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Transplantationsmedizin"
+302085,Unfallchirurgie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Unfallchirurgie"
+302086,Urologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Urologie"
+302087,Venerologie,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Venerologie"
+302088,"Zahn-, Mund- und Kieferheilkunde","Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Zahn-, Mund- und Kieferheilkunde"
+302093,Zahnerhaltungskunde,"Humanmedizin, Gesundheitswissenschaften > Klinische Medizin > Klinische Medizin > Zahnerhaltungskunde"
+303001,Arbeitsmedizin,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Arbeitsmedizin"
+303002,Bakteriologie,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Bakteriologie"
+303003,Berufskrankheiten,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Berufskrankheiten"
+303004,Bewegungswissenschaft,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Bewegungswissenschaft"
+303005,Biomechanik des Sports,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Biomechanik des Sports"
+303006,Diätologie,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Diätologie"
+303007,Epidemiologie,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Epidemiologie"
+303008,Ergonomie,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Ergonomie"
+303037,Ergotherapie,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Ergotherapie"
+303009,Ernährungswissenschaften,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Ernährungswissenschaften"
+303010,Gesundheitsökonomie,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitsökonomie"
+303011,Gesundheitspolitik,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitspolitik"
+303012,Gesundheitswissenschaften,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften"
+303013,Hygiene,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Hygiene"
+303014,Impfschutz,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Impfschutz"
+303015,Krankenhaushygiene,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Krankenhaushygiene"
+303016,Krankenhausmanagement,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Krankenhausmanagement"
+303017,Lebensmittelhygiene,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Lebensmittelhygiene"
+303018,Lufthygiene,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Lufthygiene"
+303019,Medizinische Ethik,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Medizinische Ethik"
+303020,Medizinische Mikrobiologie,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Medizinische Mikrobiologie"
+303021,Medizinische Rehabilitation,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Medizinische Rehabilitation"
+303022,Palliativpflege,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Palliativpflege"
+303023,Parasitologie,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Parasitologie"
+303036,Patientensicherheit,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Patientensicherheit"
+303024,Pflegewissenschaft,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Pflegewissenschaft"
+303038,Physiotherapie,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Physiotherapie"
+303025,Präventivmedizin,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Präventivmedizin"
+303026,Public Health,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Public Health"
+303039,Radiologietechnologie,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Radiologietechnologie"
+303027,Sozialmedizin,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Sozialmedizin"
+303028,Sportwissenschaft,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Sportwissenschaft"
+303029,Suchtforschung,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Suchtforschung"
+303030,Trainingswissenschaft,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Trainingswissenschaft"
+303031,Tropenmedizin,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Tropenmedizin"
+303032,Umwelthygiene,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Umwelthygiene"
+303033,Umweltmedizin,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Umweltmedizin"
+303040,Versorgungsforschung,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Versorgungsforschung"
+303034,Virologie,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Virologie"
+303035,Wasserhygiene,"Humanmedizin, Gesundheitswissenschaften > Gesundheitswissenschaften > Gesundheitswissenschaften > Wasserhygiene"
+304001,Ethik in der Medizinischen Biotechnologie,"Humanmedizin, Gesundheitswissenschaften > Medizinische Biotechnologie > Medizinische Biotechnologie > Ethik in der Medizinischen Biotechnologie"
+304002,Genetische Diagnostik,"Humanmedizin, Gesundheitswissenschaften > Medizinische Biotechnologie > Medizinische Biotechnologie > Genetische Diagnostik"
+304003,Gentechnik (404006),"Humanmedizin, Gesundheitswissenschaften > Medizinische Biotechnologie > Medizinische Biotechnologie > Gentechnik (404006)"
+304004,Gentherapie,"Humanmedizin, Gesundheitswissenschaften > Medizinische Biotechnologie > Medizinische Biotechnologie > Gentherapie"
+304005,Medizinische Biotechnologie,"Humanmedizin, Gesundheitswissenschaften > Medizinische Biotechnologie > Medizinische Biotechnologie > Medizinische Biotechnologie"
+304006,Pharmakogenomik,"Humanmedizin, Gesundheitswissenschaften > Medizinische Biotechnologie > Medizinische Biotechnologie > Pharmakogenomik"
+304008,Regenerative Medizin,"Humanmedizin, Gesundheitswissenschaften > Medizinische Biotechnologie > Medizinische Biotechnologie > Regenerative Medizin"
+304007,Tissue Engineering,"Humanmedizin, Gesundheitswissenschaften > Medizinische Biotechnologie > Medizinische Biotechnologie > Tissue Engineering"
+305101,Blutspurenanalyse,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Gerichtsmedizin > Blutspurenanalyse"
+305102,DNA-Analyse (Gerichtsmedizin),"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Gerichtsmedizin > DNA-Analyse (Gerichtsmedizin)"
+305109,Forensische Anthropologie,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Gerichtsmedizin > Forensische Anthropologie"
+305103,Forensische Biologie,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Gerichtsmedizin > Forensische Biologie"
+305104,Forensische Chemie,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Gerichtsmedizin > Forensische Chemie"
+305105,Forensische Psychiatrie,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Gerichtsmedizin > Forensische Psychiatrie"
+305106,Forensische Radiologie,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Gerichtsmedizin > Forensische Radiologie"
+305107,Forensische Toxikologie,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Gerichtsmedizin > Forensische Toxikologie"
+305108,Gerichtliche Humanmedizin,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Gerichtsmedizin > Gerichtliche Humanmedizin"
+305901,Computerunterstützte Diagnose und Therapie,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Sonstige Humanmedizin, > Computerunterstützte Diagnose und Therapie"
+305902,Gender Medizin,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Sonstige Humanmedizin, > Gender Medizin"
+305903,Geschichte der Medizin,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Sonstige Humanmedizin, > Geschichte der Medizin"
+305904,Medizinische Dokumentation,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Sonstige Humanmedizin, > Medizinische Dokumentation"
+305905,Medizinische Informatik (102020),"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Sonstige Humanmedizin, > Medizinische Informatik (102020)"
+305906,Medizinische Kybernetik,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Sonstige Humanmedizin, > Medizinische Kybernetik"
+305907,Medizinische Statistik,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Sonstige Humanmedizin, > Medizinische Statistik"
+305908,Sportmedizin,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Sonstige Humanmedizin, > Sportmedizin"
+305909,Stressforschung,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Sonstige Humanmedizin, > Stressforschung"
+305910,Verkehrsmedizin,"Humanmedizin, Gesundheitswissenschaften > Andere Humanmedizin, Gesundheitswissenschaften > Sonstige Humanmedizin, > Verkehrsmedizin"
+401101,Ackerbau,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Ackerbau"
+401102,Bewässerungswirtschaft,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Bewässerungswirtschaft"
+401119,Feldfutterbau,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Feldfutterbau"
+401103,Gartenbau,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Gartenbau"
+401104,Gemüsebau,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Gemüsebau"
+401105,Getreidebau,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Getreidebau"
+401106,Landschaftspflege,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Landschaftspflege"
+401107,Landtechnik,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Landtechnik"
+401108,Obstbau,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Obstbau"
+401109,Ökologischer Landbau,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Ökologischer Landbau"
+401110,Pflanzenbau,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Pflanzenbau"
+401111,Pflanzenernährung,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Pflanzenernährung"
+401112,Pflanzenschutz,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Pflanzenschutz"
+401113,Pflanzenzucht,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Pflanzenzucht"
+401114,Saatzucht,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Saatzucht"
+401115,Samenzucht,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Samenzucht"
+401116,Spezialkulturen,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Spezialkulturen"
+401117,Weinbau,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Weinbau"
+401118,Zierpflanzenbau,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Ackerbau, Gartenbau > Zierpflanzenbau"
+401201,Forstentomologie,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Forst- und Holzwirtschaft > Forstentomologie"
+401202,Forstpathologie,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Forst- und Holzwirtschaft > Forstpathologie"
+401203,Forstschutz,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Forst- und Holzwirtschaft > Forstschutz"
+401204,Forsttechnik,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Forst- und Holzwirtschaft > Forsttechnik"
+401205,Forstwirtschaft,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Forst- und Holzwirtschaft > Forstwirtschaft"
+401206,Holzwirtschaft,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Forst- und Holzwirtschaft > Holzwirtschaft"
+401207,Waldbau,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Forst- und Holzwirtschaft > Waldbau"
+401208,Waldökologie,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Forst- und Holzwirtschaft > Waldökologie"
+401209,Waldwachstum,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Forst- und Holzwirtschaft > Waldwachstum"
+401901,Bodenerosion,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Sonstige Land- und Forstwirtschaft, Fischerei > Bodenerosion"
+401902,Bodenkunde,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Sonstige Land- und Forstwirtschaft, Fischerei > Bodenkunde"
+401903,Fischerei,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Sonstige Land- und Forstwirtschaft, Fischerei > Fischerei"
+401904,Geschichte der Land- und Forstwirtschaft,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Sonstige Land- und Forstwirtschaft, Fischerei > Geschichte der Land- und Forstwirtschaft"
+401906,Jagdwirtschaft,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Sonstige Land- und Forstwirtschaft, Fischerei > Jagdwirtschaft"
+401905,Nachwachsende Rohstoffe,"Agrarwissenschaften, Veterinärmedizin > Land- und Forstwirtschaft, Fischerei > Sonstige Land- und Forstwirtschaft, Fischerei > Nachwachsende Rohstoffe"
+402001,Bienenkunde,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Bienenkunde"
+402002,Fischkunde,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Fischkunde"
+402003,Fleischhygiene,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Fleischhygiene"
+402004,Fleischproduktion,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Fleischproduktion"
+402005,Futtermittelanalyse,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Futtermittelanalyse"
+402006,Haustierzucht,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Haustierzucht"
+402007,Imkerei,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Imkerei"
+402008,Künstliche Besamung,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Künstliche Besamung"
+402018,Labortierkunde,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Labortierkunde"
+402009,Lebensmitteluntersuchung (107005),"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Lebensmitteluntersuchung (107005)"
+402010,Milchhygiene,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Milchhygiene"
+402011,Milchproduktion,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Milchproduktion"
+402012,Nutztierethologie,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Nutztierethologie"
+402013,Tierernährung (403028),"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Tierernährung (403028)"
+402014,Tierhaltung,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Tierhaltung"
+402015,Tierproduktion,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Tierproduktion"
+402016,Tierschutz,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Tierschutz"
+402017,Tierzucht,"Agrarwissenschaften, Veterinärmedizin > Tierzucht, Tierproduktion > Tierzucht, Tierproduktion > Tierzucht"
+403001,Anästhesiologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Anästhesiologie (Veterinärmedizin)"
+403002,Anatomie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Anatomie (Veterinärmedizin)"
+403003,Andrologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Andrologie (Veterinärmedizin)"
+403004,Augenheilkunde (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Augenheilkunde (Veterinärmedizin)"
+403005,Bakteriologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Bakteriologie (Veterinärmedizin)"
+403035,Bestandsbetreuung,"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Bestandsbetreuung"
+403006,Bildgebende Diagnostik (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Bildgebende Diagnostik (Veterinärmedizin)"
+403007,Chirurgie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Chirurgie (Veterinärmedizin)"
+403008,Diagnostik (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Diagnostik (Veterinärmedizin)"
+403009,Embryologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Embryologie (Veterinärmedizin)"
+403010,Geburtshilfe (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Geburtshilfe (Veterinärmedizin)"
+403011,Gerichtliche Veterinärmedizin,"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Gerichtliche Veterinärmedizin"
+403012,Geschichte der Veterinärmedizin,"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Geschichte der Veterinärmedizin"
+403013,Gynäkologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Gynäkologie (Veterinärmedizin)"
+403014,Histologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Histologie (Veterinärmedizin)"
+403015,Hygiene (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Hygiene (Veterinärmedizin)"
+403016,Immunologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Immunologie (Veterinärmedizin)"
+403036,Intensivmedizin (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Intensivmedizin (Veterinärmedizin)"
+403017,Interne Medizin (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Interne Medizin (Veterinärmedizin)"
+403018,Labordiagnostik (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Labordiagnostik (Veterinärmedizin)"
+403019,Medizinische Biochemie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Medizinische Biochemie (Veterinärmedizin)"
+403020,Medizinische Chemie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Medizinische Chemie (Veterinärmedizin)"
+403021,Neurologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Neurologie (Veterinärmedizin)"
+403022,Orthopädie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Orthopädie (Veterinärmedizin)"
+403023,Parasitologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Parasitologie (Veterinärmedizin)"
+403024,Pathologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Pathologie (Veterinärmedizin)"
+403025,Pharmakologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Pharmakologie (Veterinärmedizin)"
+403026,Physiologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Physiologie (Veterinärmedizin)"
+403027,Phytotherapie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Phytotherapie (Veterinärmedizin)"
+403033,Regenerative Medizin (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Regenerative Medizin (Veterinärmedizin)"
+403034,Schmerzmedizin (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Schmerzmedizin (Veterinärmedizin)"
+403028,Tierernährung (402013),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Tierernährung (402013)"
+403029,Tierseuchenbekämpfung,"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Tierseuchenbekämpfung"
+403030,Toxikologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Toxikologie (Veterinärmedizin)"
+403031,Virologie (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Virologie (Veterinärmedizin)"
+403032,Zahnheilkunde (Veterinärmedizin),"Agrarwissenschaften, Veterinärmedizin > Veterinärmedizin > Veterinärmedizin > Zahnheilkunde (Veterinärmedizin)"
+404001,Agrarbiotechnologie,"Agrarwissenschaften, Veterinärmedizin > Agrarbiotechnologie, Lebensmittelbiotechnologie > Agrarbiotechnologie, Lebensmittelbiotechnologie > Agrarbiotechnologie"
+404002,Biopharming,"Agrarwissenschaften, Veterinärmedizin > Agrarbiotechnologie, Lebensmittelbiotechnologie > Agrarbiotechnologie, Lebensmittelbiotechnologie > Biopharming"
+404003,Ethik in der Agrar- und Lebensmittelbiotechnologie,"Agrarwissenschaften, Veterinärmedizin > Agrarbiotechnologie, Lebensmittelbiotechnologie > Agrarbiotechnologie, Lebensmittelbiotechnologie > Ethik in der Agrar- und Lebensmittelbiotechnologie"
+404004,Fermentation (209005),"Agrarwissenschaften, Veterinärmedizin > Agrarbiotechnologie, Lebensmittelbiotechnologie > Agrarbiotechnologie, Lebensmittelbiotechnologie > Fermentation (209005)"
+404005,Gärungstechnologie,"Agrarwissenschaften, Veterinärmedizin > Agrarbiotechnologie, Lebensmittelbiotechnologie > Agrarbiotechnologie, Lebensmittelbiotechnologie > Gärungstechnologie"
+404006,Gentechnik (304003),"Agrarwissenschaften, Veterinärmedizin > Agrarbiotechnologie, Lebensmittelbiotechnologie > Agrarbiotechnologie, Lebensmittelbiotechnologie > Gentechnik (304003)"
+404007,Lebensmittelbiotechnologie,"Agrarwissenschaften, Veterinärmedizin > Agrarbiotechnologie, Lebensmittelbiotechnologie > Agrarbiotechnologie, Lebensmittelbiotechnologie > Lebensmittelbiotechnologie"
+405001,Agrarökologie,"Agrarwissenschaften, Veterinärmedizin > Andere Agrarwissenschaften > Andere Agrarwissenschaften > Agrarökologie"
+405002,Agrarökonomie,"Agrarwissenschaften, Veterinärmedizin > Andere Agrarwissenschaften > Andere Agrarwissenschaften > Agrarökonomie"
+405003,Agrarpolitik,"Agrarwissenschaften, Veterinärmedizin > Andere Agrarwissenschaften > Andere Agrarwissenschaften > Agrarpolitik"
+405006,Agrarsoziologie,"Agrarwissenschaften, Veterinärmedizin > Andere Agrarwissenschaften > Andere Agrarwissenschaften > Agrarsoziologie"
+405004,Nachhaltige Landwirtschaft,"Agrarwissenschaften, Veterinärmedizin > Andere Agrarwissenschaften > Andere Agrarwissenschaften > Nachhaltige Landwirtschaft"
+405005,Wildtierkunde,"Agrarwissenschaften, Veterinärmedizin > Andere Agrarwissenschaften > Andere Agrarwissenschaften > Wildtierkunde"
+405007,Wildtiermanagement,"Agrarwissenschaften, Veterinärmedizin > Andere Agrarwissenschaften > Andere Agrarwissenschaften > Wildtiermanagement"
+501001,Allgemeine Psychologie,Sozialwissenschaften > Psychologie > Psychologie > Allgemeine Psychologie
+501002,Angewandte Psychologie,Sozialwissenschaften > Psychologie > Psychologie > Angewandte Psychologie
+501003,Arbeitspsychologie,Sozialwissenschaften > Psychologie > Psychologie > Arbeitspsychologie
+501004,Differentielle Psychologie,Sozialwissenschaften > Psychologie > Psychologie > Differentielle Psychologie
+501005,Entwicklungspsychologie,Sozialwissenschaften > Psychologie > Psychologie > Entwicklungspsychologie
+501006,Experimentalpsychologie,Sozialwissenschaften > Psychologie > Psychologie > Experimentalpsychologie
+501007,Geschichte der Psychologie,Sozialwissenschaften > Psychologie > Psychologie > Geschichte der Psychologie
+501008,Gruppendynamik,Sozialwissenschaften > Psychologie > Psychologie > Gruppendynamik
+501009,Kinder- und Jugendpsychologie,Sozialwissenschaften > Psychologie > Psychologie > Kinder- und Jugendpsychologie
+501010,Klinische Psychologie,Sozialwissenschaften > Psychologie > Psychologie > Klinische Psychologie
+501011,Kognitionspsychologie,Sozialwissenschaften > Psychologie > Psychologie > Kognitionspsychologie
+501030,Kognitionswissenschaft,Sozialwissenschaften > Psychologie > Psychologie > Kognitionswissenschaft
+501012,Medienpsychologie,Sozialwissenschaften > Psychologie > Psychologie > Medienpsychologie
+501013,Motivationspsychologie,Sozialwissenschaften > Psychologie > Psychologie > Motivationspsychologie
+501027,Musiktherapie,Sozialwissenschaften > Psychologie > Psychologie > Musiktherapie
+501014,Neuropsychologie,Sozialwissenschaften > Psychologie > Psychologie > Neuropsychologie
+501015,Organisationspsychologie,Sozialwissenschaften > Psychologie > Psychologie > Organisationspsychologie
+501016,Pädagogische Psychologie,Sozialwissenschaften > Psychologie > Psychologie > Pädagogische Psychologie
+501017,Psychoanalyse,Sozialwissenschaften > Psychologie > Psychologie > Psychoanalyse
+501018,Psychologische Diagnostik,Sozialwissenschaften > Psychologie > Psychologie > Psychologische Diagnostik
+501028,Psychosoziale Notfallversorgung (PSNV),Sozialwissenschaften > Psychologie > Psychologie > Psychosoziale Notfallversorgung (PSNV)
+501019,Psychotherapie,Sozialwissenschaften > Psychologie > Psychologie > Psychotherapie
+501020,Rechtspsychologie,Sozialwissenschaften > Psychologie > Psychologie > Rechtspsychologie
+501021,Sozialpsychologie,Sozialwissenschaften > Psychologie > Psychologie > Sozialpsychologie
+501022,Suizidologie,Sozialwissenschaften > Psychologie > Psychologie > Suizidologie
+501023,Tiefenpsychologie,Sozialwissenschaften > Psychologie > Psychologie > Tiefenpsychologie
+501024,Verhaltenstherapie,Sozialwissenschaften > Psychologie > Psychologie > Verhaltenstherapie
+501025,Verkehrspsychologie,Sozialwissenschaften > Psychologie > Psychologie > Verkehrspsychologie
+501026,Wahrnehmungspsychologie,Sozialwissenschaften > Psychologie > Psychologie > Wahrnehmungspsychologie
+501029,Wirtschaftspsychologie,Sozialwissenschaften > Psychologie > Psychologie > Wirtschaftspsychologie
+502001,Arbeitsmarktpolitik,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Arbeitsmarktpolitik
+502002,Arbeitsmarkttheorie,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Arbeitsmarkttheorie
+502003,Außenhandel,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Außenhandel
+502004,Bankbetriebslehre,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Bankbetriebslehre
+502052,Betriebswirtschaftslehre,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Betriebswirtschaftslehre
+502005,Bildungsökonomie,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Bildungsökonomie
+502006,Controlling,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Controlling
+502058,Digitale Transformation,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Digitale Transformation
+502007,E-Commerce,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > E-Commerce
+502054,Entrepreneurship,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Entrepreneurship
+502008,Entwicklungsökonomie,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Entwicklungsökonomie
+502057,Experimentelle Ökonomie,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Experimentelle Ökonomie
+502009,Finanzwirtschaft,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Finanzwirtschaft
+502010,Finanzwissenschaft,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Finanzwissenschaft
+502011,Genossenschaftswesen,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Genossenschaftswesen
+502012,Industriebetriebslehre,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Industriebetriebslehre
+502013,Industrieökonomik,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Industrieökonomik
+502014,Innovationsforschung,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Innovationsforschung
+502015,Innovationsmanagement,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Innovationsmanagement
+502016,KMU-Forschung,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > KMU-Forschung
+502059,Kreislaufwirtschaft,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Kreislaufwirtschaft
+502017,Logistik,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Logistik
+502018,Makroökonomie,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Makroökonomie
+502019,Marketing,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Marketing
+502020,Marktforschung,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Marktforschung
+502021,Mikroökonomie,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Mikroökonomie
+502022,Nachhaltiges Wirtschaften,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Nachhaltiges Wirtschaften
+502023,NPO-Forschung,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > NPO-Forschung
+502024,Öffentliche Wirtschaft,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Öffentliche Wirtschaft
+502025,Ökonometrie,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Ökonometrie
+502026,Personalmanagement,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Personalmanagement
+502027,Politische Ökonomie,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Politische Ökonomie
+502028,Produktionswirtschaft,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Produktionswirtschaft
+502029,Produktmanagement,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Produktmanagement
+502030,Projektmanagement,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Projektmanagement
+502031,Public Management,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Public Management
+502032,Qualitätsmanagement,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Qualitätsmanagement
+502033,Rechnungswesen,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Rechnungswesen
+502034,Regulierungsökonomik,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Regulierungsökonomik
+502035,Revisions- und Treuhandwesen,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Revisions- und Treuhandwesen
+502036,Risikomanagement,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Risikomanagement
+502037,Standortplanung,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Standortplanung
+502038,Steuerlehre,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Steuerlehre
+502039,Strukturpolitik,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Strukturpolitik
+502040,Tourismusforschung,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Tourismusforschung
+502041,Umweltmanagement,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Umweltmanagement
+502042,Umweltökonomie,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Umweltökonomie
+502043,Unternehmensberatung,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Unternehmensberatung
+502044,Unternehmensführung,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Unternehmensführung
+502045,Verhaltensökonomie,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Verhaltensökonomie
+502055,Verteilungsökonomie,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Verteilungsökonomie
+502053,Volkswirtschaftslehre,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Volkswirtschaftslehre
+502046,Volkswirtschaftspolitik,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Volkswirtschaftspolitik
+502047,Volkswirtschaftstheorie,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Volkswirtschaftstheorie
+502048,Wirtschaftsethik,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Wirtschaftsethik
+502049,Wirtschaftsgeschichte,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Wirtschaftsgeschichte
+502050,Wirtschaftsinformatik,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Wirtschaftsinformatik
+502056,Wirtschaftsprüfung,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Wirtschaftsprüfung
+502051,Wirtschaftsstatistik,Sozialwissenschaften > Wirtschaftswissenschaften > Wirtschaftswissenschaften > Wirtschaftsstatistik
+503001,Allgemeine Pädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Allgemeine Pädagogik
+503002,Angewandte Pädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Angewandte Pädagogik
+503003,Begabungsforschung,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Begabungsforschung
+503004,Berufskunde,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Berufskunde
+503005,Berufspädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Berufspädagogik
+503006,Bildungsforschung,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Bildungsforschung
+503007,Didaktik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Didaktik
+503008,E-Learning,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > E-Learning
+503031,Elementarpädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Elementarpädagogik
+503009,Erwachsenenbildung,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Erwachsenenbildung
+503010,"Fachdidaktik Agrarwissenschaften, Veterinärmedizin medicine","Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Fachdidaktik Agrarwissenschaften, Veterinärmedizin medicine"
+503011,Fachdidaktik Geisteswissenschaften,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Fachdidaktik Geisteswissenschaften
+503012,"Fachdidaktik Humanmedizin, Gesundheits- wissenschaften","Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Fachdidaktik Humanmedizin, Gesundheits- wissenschaften"
+503013,Fachdidaktik Naturwissenschaften,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Fachdidaktik Naturwissenschaften
+503014,Fachdidaktik Sozialwissenschaften,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Fachdidaktik Sozialwissenschaften
+503015,Fachdidaktik Technische Wissenschaften,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Fachdidaktik Technische Wissenschaften
+503016,Freizeitpädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Freizeitpädagogik
+503017,Geschichte der Pädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Geschichte der Pädagogik
+503018,Hochschuldidaktik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Hochschuldidaktik
+503034,Inklusive Pädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Inklusive Pädagogik
+503019,Kunstpädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Kunstpädagogik
+503032,Lehr- und Lernforschung,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Lehr- und Lernforschung
+503020,Medienpädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Medienpädagogik
+503021,Museumspädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Museumspädagogik
+503022,Musikpädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Musikpädagogik
+503033,Politische Bildung,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Politische Bildung
+503023,Qualifikationsforschung,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Qualifikationsforschung
+503024,Religionspädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Religionspädagogik
+503025,Schulpädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Schulpädagogik
+503035,Sexualpädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Sexualpädagogik
+503026,Sonder- und Heilpädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Sonder- und Heilpädagogik
+503027,Sozialpädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Sozialpädagogik
+503028,Sportpädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Sportpädagogik
+503029,Sprachlehrforschung,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Sprachlehrforschung
+503036,Stimmforschung,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Stimmforschung
+503030,Wirtschaftspädagogik,Sozialwissenschaften > Erziehungswissenschaften > Erziehungswissenschaften > Wirtschaftspädagogik
+504001,Allgemeine Soziologie,Sozialwissenschaften > Soziologie > Soziologie > Allgemeine Soziologie
+504002,Arbeitssoziologie,Sozialwissenschaften > Soziologie > Soziologie > Arbeitssoziologie
+504003,Armut und soziale Ausgrenzung,Sozialwissenschaften > Soziologie > Soziologie > Armut und soziale Ausgrenzung
+504004,Bevölkerungsstatistik,Sozialwissenschaften > Soziologie > Soziologie > Bevölkerungsstatistik
+504005,Bildungssoziologie,Sozialwissenschaften > Soziologie > Soziologie > Bildungssoziologie
+504006,Demographie,Sozialwissenschaften > Soziologie > Soziologie > Demographie
+504031,Diversitätsforschung,Sozialwissenschaften > Soziologie > Soziologie > Diversitätsforschung
+504007,Empirische Sozialforschung,Sozialwissenschaften > Soziologie > Soziologie > Empirische Sozialforschung
+504008,Ethnographie,Sozialwissenschaften > Soziologie > Soziologie > Ethnographie
+504009,Ethnologie,Sozialwissenschaften > Soziologie > Soziologie > Ethnologie
+504010,Europäische Ethnologie,Sozialwissenschaften > Soziologie > Soziologie > Europäische Ethnologie
+504011,Familienforschung,Sozialwissenschaften > Soziologie > Soziologie > Familienforschung
+504012,Freizeitforschung,Sozialwissenschaften > Soziologie > Soziologie > Freizeitforschung
+504013,Gender Mainstreaming,Sozialwissenschaften > Soziologie > Soziologie > Gender Mainstreaming
+504014,Gender Studies,Sozialwissenschaften > Soziologie > Soziologie > Gender Studies
+504015,Geschichte der Soziologie,Sozialwissenschaften > Soziologie > Soziologie > Geschichte der Soziologie
+504016,Jugendsoziologie,Sozialwissenschaften > Soziologie > Soziologie > Jugendsoziologie
+504017,Kulturanthropologie,Sozialwissenschaften > Soziologie > Soziologie > Kulturanthropologie
+504018,Kultursoziologie,Sozialwissenschaften > Soziologie > Soziologie > Kultursoziologie
+504019,Mediensoziologie,Sozialwissenschaften > Soziologie > Soziologie > Mediensoziologie
+504020,Medizinsoziologie,Sozialwissenschaften > Soziologie > Soziologie > Medizinsoziologie
+504021,Migrationsforschung,Sozialwissenschaften > Soziologie > Soziologie > Migrationsforschung
+504022,Musiksoziologie,Sozialwissenschaften > Soziologie > Soziologie > Musiksoziologie
+504023,Politische Soziologie,Sozialwissenschaften > Soziologie > Soziologie > Politische Soziologie
+504024,Rechtssoziologie,Sozialwissenschaften > Soziologie > Soziologie > Rechtssoziologie
+504025,Religionssoziologie,Sozialwissenschaften > Soziologie > Soziologie > Religionssoziologie
+504026,Sozialgeschichte (601029),Sozialwissenschaften > Soziologie > Soziologie > Sozialgeschichte (601029)
+504027,Spezielle Soziologie,Sozialwissenschaften > Soziologie > Soziologie > Spezielle Soziologie
+504028,Techniksoziologie,Sozialwissenschaften > Soziologie > Soziologie > Techniksoziologie
+504029,Umweltsoziologie,Sozialwissenschaften > Soziologie > Soziologie > Umweltsoziologie
+504030,Wirtschaftssoziologie,Sozialwissenschaften > Soziologie > Soziologie > Wirtschaftssoziologie
+505047,Allgemeines Verfahrensrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Allgemeines Verfahrensrecht
+505033,Antidiskriminierungsrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Antidiskriminierungsrecht
+505001,Arbeitsrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Arbeitsrecht
+505034,Bank- und Kapitalmarktrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Bank- und Kapitalmarktrecht
+505035,Baurecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Baurecht
+505002,Datenschutz,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Datenschutz
+505036,Energierecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Energierecht
+505003,Europarecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Europarecht
+505037,Familien- und Erbrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Familien- und Erbrecht
+505004,Finanzrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Finanzrecht
+505005,Geistiges Eigentum,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Geistiges Eigentum
+505044,Gesellschaftsrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Gesellschaftsrecht
+505006,Grundrechte,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Grundrechte
+505045,Hochschulrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Hochschulrecht
+505007,Insolvenzrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Insolvenzrecht
+505008,Kriminologie,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Kriminologie
+505046,Luft- und Weltraumrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Luft- und Weltraumrecht
+505038,Marken- und Patentrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Marken- und Patentrecht
+505009,Mediation,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Mediation
+505039,Medienrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Medienrecht
+505010,Medizinrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Medizinrecht
+505011,Menschenrechte,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Menschenrechte
+505012,Öffentliches Recht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Öffentliches Recht
+505013,Privatrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Privatrecht
+505051,Rechtsethik,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Rechtsethik
+505014,Rechtsgeschichte,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Rechtsgeschichte
+505015,Rechtsinformatik,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Rechtsinformatik
+505016,Rechtstheorie,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Rechtstheorie
+505017,Rechtsvergleichung,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Rechtsvergleichung
+505018,Religionsrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Religionsrecht
+505019,Römisches Recht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Römisches Recht
+505048,Sachenrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Sachenrecht
+505049,Schiedsverfahrensrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Schiedsverfahrensrecht
+505020,Sozialrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Sozialrecht
+505040,Sportrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Sportrecht
+505021,Staatsrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Staatsrecht
+505022,Steuerrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Steuerrecht
+505023,Strafprozessrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Strafprozessrecht
+505024,Strafrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Strafrecht
+505050,Tierschutzrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Tierschutzrecht
+505041,Umweltrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Umweltrecht
+505025,Unternehmensrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Unternehmensrecht
+505026,Verfassungsrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Verfassungsrecht
+505042,Verkehrsrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Verkehrsrecht
+505052,Versicherungsrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Versicherungsrecht
+505027,Verwaltungslehre,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Verwaltungslehre
+505028,Verwaltungsrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Verwaltungsrecht
+505053,Verwaltungsverfahrensrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Verwaltungsverfahrensrecht
+505029,Völkerrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Völkerrecht
+505043,Wettbewerbs- und Kartellrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Wettbewerbs- und Kartellrecht
+505030,Wirtschaftsrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Wirtschaftsrecht
+505031,Zivilrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Zivilrecht
+505032,Zivilverfahrensrecht,Sozialwissenschaften > Rechtswissenschaften > Rechtswissenschaften > Zivilverfahrensrecht
+506001,Allgemeine Staatslehre,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Allgemeine Staatslehre
+506015,Asylpolitik,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Asylpolitik
+506002,E-Government,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > E-Government
+506003,Entwicklungspolitik,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Entwicklungspolitik
+506004,Europäische Integration,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Europäische Integration
+506005,Forschungspolitik,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Forschungspolitik
+506006,Friedensforschung,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Friedensforschung
+506007,Internationale Beziehungen,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Internationale Beziehungen
+506008,Konfliktforschung,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Konfliktforschung
+506016,Migrationspolitik,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Migrationspolitik
+506009,Organisationstheorie,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Organisationstheorie
+506010,Politikfeldanalyse,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Politikfeldanalyse
+506011,Politische Geschichte,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Politische Geschichte
+506012,Politische Systeme,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Politische Systeme
+506013,Politische Theorie,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Politische Theorie
+506018,Terrorismusforschung,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Terrorismusforschung
+506014,Vergleichende Politikwissenschaft,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Vergleichende Politikwissenschaft
+506017,Wissenschafts- und Technologiepolitik,Sozialwissenschaften > Politikwissenschaften > Politikwissenschaften > Wissenschafts- und Technologiepolitik
+507001,Angewandte Geographie,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Angewandte Geographie"
+507002,Bevölkerungsgeographie,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Bevölkerungsgeographie"
+507003,"Geoinformatik (105403, 207404)","Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Geoinformatik (105403, 207404)"
+507004,Geschichte der Geographie (105406),"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Geschichte der Geographie (105406)"
+507028,"Kartographie (105407, 207406)","Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Kartographie (105407, 207406)"
+507005,Kulturgeographie,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Kulturgeographie"
+507006,Kulturlandschaftsforschung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Kulturlandschaftsforschung"
+507007,Landesplanung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Landesplanung"
+507008,Landschaftsplanung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Landschaftsplanung"
+507027,Nachhaltige Stadtentwicklung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Nachhaltige Stadtentwicklung"
+507009,Örtliche Raumplanung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Örtliche Raumplanung"
+507010,Politische Geographie,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Politische Geographie"
+507011,Raumforschung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Raumforschung"
+507012,Raumordnung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Raumordnung"
+507013,Regionale Geographie,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Regionale Geographie"
+507014,Regionalentwicklung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Regionalentwicklung"
+507015,Regionalforschung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Regionalforschung"
+507016,Regionalökonomie,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Regionalökonomie"
+507017,Sozialgeographie,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Sozialgeographie"
+507018,"Stadt-, Dorferneuerung","Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Stadt-, Dorferneuerung"
+507019,Stadtentwicklungsplanung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Stadtentwicklungsplanung"
+507020,Stadtforschung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Stadtforschung"
+507021,Stadtgeschichte,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Stadtgeschichte"
+507029,Stadtökologie,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Stadtökologie"
+507022,Stadtplanung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Stadtplanung"
+507023,Standortentwicklung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Standortentwicklung"
+507024,Umweltpolitik,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Umweltpolitik"
+507025,Verkehrsplanung,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Verkehrsplanung"
+507026,Wirtschaftsgeographie,"Sozialwissenschaften > Humangeographie, Regionale Geographie, > Humangeographie, Regionale Geographie, > Wirtschaftsgeographie"
+508001,Archivwesen,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Archivwesen
+508002,Audiovisuelle Medien (202002),Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Audiovisuelle Medien (202002)
+508003,Bibliothekswissenschaft,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Bibliothekswissenschaft
+508004,Interkulturelle Kommunikation,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Interkulturelle Kommunikation
+508005,Journalistik,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Journalistik
+508006,Kommunikationstheorie,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Kommunikationstheorie
+508007,Kommunikationswissenschaft,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Kommunikationswissenschaft
+508008,Medienanalyse,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Medienanalyse
+508019,Medienethik,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Medienethik
+508009,Medienforschung,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Medienforschung
+508010,Mediengeschichte,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Mediengeschichte
+508011,Medientheorie,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Medientheorie
+508012,Medienwirkungsforschung,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Medienwirkungsforschung
+508021,Medienwissenschaft,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Medienwissenschaft
+508017,Organisationskommunikation,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Organisationskommunikation
+508020,Politische Kommunikation,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Politische Kommunikation
+508013,Public Relations,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Public Relations
+508014,Publizistik,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Publizistik
+508018,Rezeptionsforschung,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Rezeptionsforschung
+508015,Wirtschaftskommunikation,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Wirtschaftskommunikation
+508016,Wissenschaftskommunikation,Sozialwissenschaften > Medien- und Kommunikationswissenschaften > Medien- und Kommunikationswissenschaften > Wissenschaftskommunikation
+509001,Aktionsforschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Aktionsforschung
+509026,Digitalisierungsforschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Digitalisierungsforschung
+509002,Disability Studies,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Disability Studies
+509023,Entwicklungsforschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Entwicklungsforschung
+509003,Entwicklungszusammenarbeit,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Entwicklungszusammenarbeit
+509004,Evaluationsforschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Evaluationsforschung
+509005,Gerontologie (302020),Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Gerontologie (302020)
+509006,Geschichte der Sozialwissenschaften,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Geschichte der Sozialwissenschaften
+509007,Graffiti-Forschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Graffiti-Forschung
+509008,"Kinderforschung, Jugendforschung","Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Kinderforschung, Jugendforschung"
+509020,Militärethik,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Militärethik
+509009,Militärstrategische Forschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Militärstrategische Forschung
+509021,Militärwissenschaft,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Militärwissenschaft
+509010,Minderheitenforschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Minderheitenforschung
+509011,Organisationsentwicklung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Organisationsentwicklung
+509022,Polemologie,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Polemologie
+509024,Sicherheitsforschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Sicherheitsforschung
+509012,Sozialpolitik,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Sozialpolitik
+509013,Sozialstatistik,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Sozialstatistik
+509014,Spielforschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Spielforschung
+509025,Technikforschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Technikforschung
+509015,Unfallforschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Unfallforschung
+509016,Verkehrswirtschaft (201307),Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Verkehrswirtschaft (201307)
+509017,Wissenschaftsforschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Wissenschaftsforschung
+509018,Wissensmanagement,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Wissensmanagement
+509019,Zukunftsforschung,Sozialwissenschaften > Andere Sozialwissenschaften > Andere Sozialwissenschaften > Zukunftsforschung
+601001,Alte Geschichte,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Alte Geschichte"
+601002,Altertumskunde,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Altertumskunde"
+601003,Archäologie,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Archäologie"
+601024,Archäologische Prospektion,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Archäologische Prospektion"
+601004,Epigraphik,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Epigraphik"
+601005,Europäische Geschichte,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Europäische Geschichte"
+601025,Experimentelle Archäologie,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Experimentelle Archäologie"
+601006,Frühgeschichte,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Frühgeschichte"
+601007,Geschichtliche Landeskunde,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Geschichtliche Landeskunde"
+601008,Geschichtswissenschaft,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Geschichtswissenschaft"
+601028,Geschlechtergeschichte,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Geschlechtergeschichte"
+601023,Globalgeschichte,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Globalgeschichte"
+601009,Historische Hilfswissenschaften,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Historische Hilfswissenschaften"
+601010,Klassische Archäologie,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Klassische Archäologie"
+601011,Kodikologie,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Kodikologie"
+601012,Mittelalterliche Geschichte,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Mittelalterliche Geschichte"
+601013,Museologie,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Museologie"
+601014,Neuere Geschichte,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Neuere Geschichte"
+601015,Numismatik,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Numismatik"
+601016,Österreichische Geschichte,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Österreichische Geschichte"
+601017,Paläographie,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Paläographie"
+601018,Papyrologie,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Papyrologie"
+601019,Quellenkunde,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Quellenkunde"
+601020,Regionalgeschichte,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Regionalgeschichte"
+601029,Sozialgeschichte (504026),"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Sozialgeschichte (504026)"
+601021,Urgeschichte,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Urgeschichte"
+601026,Virtuelle Archäologie,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Virtuelle Archäologie"
+601027,Wüstungsforschung,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Wüstungsforschung"
+601022,Zeitgeschichte,"Geisteswissenschaften > Geschichte, Archäologie > Geschichte, Archäologie > Zeitgeschichte"
+602001,Afrikanistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Afrikanistik
+602002,Ägyptologie,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Ägyptologie
+602003,Allgemeine Literaturwissenschaft,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Allgemeine Literaturwissenschaft
+602004,Allgemeine Sprachwissenschaft,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Allgemeine Sprachwissenschaft
+602056,Altorientalistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Altorientalistik
+602005,Amerikanistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Amerikanistik
+602006,Angewandte Literaturwissenschaft,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Angewandte Literaturwissenschaft
+602007,Angewandte Sprachwissenschaft,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Angewandte Sprachwissenschaft
+602008,Anglistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Anglistik
+602009,Arabistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Arabistik
+602010,Byzantinistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Byzantinistik
+602011,Computerlinguistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Computerlinguistik
+602012,Finno-Ugristik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Finno-Ugristik
+602013,Gebärdensprachforschung,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Gebärdensprachforschung
+602014,Germanistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Germanistik
+602015,Gräzistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Gräzistik
+602016,Hermeneutik (603106),Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Hermeneutik (603106)
+602057,Historische Linguistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Historische Linguistik
+602017,Indogermanistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Indogermanistik
+602018,Indologie,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Indologie
+602019,Iranistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Iranistik
+602020,Japanologie,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Japanologie
+602021,Jiddistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Jiddistik
+602022,Judaistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Judaistik
+602023,Keltologie,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Keltologie
+602024,Klassische Philologie,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Klassische Philologie
+602025,Klinische Linguistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Klinische Linguistik
+602026,Kognitive Linguistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Kognitive Linguistik
+602027,Koptologie,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Koptologie
+602028,Koreanistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Koreanistik
+602058,Korpuslinguistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Korpuslinguistik
+602029,Latinistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Latinistik
+602030,Lexikographie,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Lexikographie
+602031,Literaturgeschichte,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Literaturgeschichte
+602032,Mundartforschung,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Mundartforschung
+602033,Namenforschung,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Namenforschung
+602034,Nederlandistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Nederlandistik
+602035,Neogräzistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Neogräzistik
+602036,Neurolinguistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Neurolinguistik
+602037,Orientalistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Orientalistik
+602055,Patholinguistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Patholinguistik
+602038,Phonetik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Phonetik
+602039,Phonologie,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Phonologie
+602040,Psycholinguistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Psycholinguistik
+602041,Rhetorik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Rhetorik
+602042,Romanistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Romanistik
+602059,Schreibwissenschaft,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Schreibwissenschaft
+602043,Semiotik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Semiotik
+602044,Semitistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Semitistik
+602045,Sinologie,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Sinologie
+602046,Skandinavistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Skandinavistik
+602047,Slawistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Slawistik
+602048,Soziolinguistik,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Soziolinguistik
+602049,Terminologielehre,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Terminologielehre
+602050,Tibetologie,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Tibetologie
+602051,Translationswissenschaft,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Translationswissenschaft
+602052,Turkologie,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Turkologie
+602053,Vergleichende Literaturwissenschaft,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Vergleichende Literaturwissenschaft
+602054,Vergleichende Sprachwissenschaft,Geisteswissenschaften > Sprach- und Literaturwissenschaften > Sprach- und Literaturwissenschaften > Vergleichende Sprachwissenschaft
+603101,Ästhetik,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Ästhetik"
+603102,Erkenntnistheorie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Erkenntnistheorie"
+603103,Ethik,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Ethik"
+603104,Geschichte der Philosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Geschichte der Philosophie"
+603105,Geschichtsphilosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Geschichtsphilosophie"
+603106,Hermeneutik (602016),"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Hermeneutik (602016)"
+603107,Ideologiekritik,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Ideologiekritik"
+603126,Interkulturelle Philosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Interkulturelle Philosophie"
+603108,Kulturphilosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Kulturphilosophie"
+603109,Logik,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Logik"
+603125,Metaethik,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Metaethik"
+603110,Metaphysik,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Metaphysik"
+603111,Naturphilosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Naturphilosophie"
+603112,Phänomenologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Phänomenologie"
+603113,Philosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Philosophie"
+603114,Philosophie des Geistes,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Philosophie des Geistes"
+603115,Philosophische Anthropologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Philosophische Anthropologie"
+603116,Politische Philosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Politische Philosophie"
+603117,Rechtsphilosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Rechtsphilosophie"
+603118,Religionsphilosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Religionsphilosophie"
+603119,Sozialphilosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Sozialphilosophie"
+603120,Sprachphilosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Sprachphilosophie"
+603121,Staatsphilosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Staatsphilosophie"
+603122,Technikphilosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Technikphilosophie"
+603123,Wissenschaftsgeschichte,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Wissenschaftsgeschichte"
+603124,Wissenschaftstheorie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Philosophie, Ethik > Wissenschaftstheorie"
+603201,Alttestamentliche Bibelwissenschaft,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Alttestamentliche Bibelwissenschaft"
+603202,Christliche Archäologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Christliche Archäologie"
+603203,Christliche Philosophie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Christliche Philosophie"
+603204,Christliche Sozialethik,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Christliche Sozialethik"
+603205,Dogmatische Theologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Dogmatische Theologie"
+603206,Fundamentaltheologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Fundamentaltheologie"
+603207,Homiletik,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Homiletik"
+603208,Interkulturelle Theologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Interkulturelle Theologie"
+603209,Kanonisches Recht,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Kanonisches Recht"
+603210,Katechetik,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Katechetik"
+603211,Kirchengeschichte,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Kirchengeschichte"
+603212,Liturgiewissenschaft,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Liturgiewissenschaft"
+603213,Moraltheologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Moraltheologie"
+603214,Neutestamentliche Bibelwissenschaft,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Neutestamentliche Bibelwissenschaft"
+603215,Ökumenische Theologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Ökumenische Theologie"
+603216,Pastoralpsychologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Pastoralpsychologie"
+603217,Pastoraltheologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Pastoraltheologie"
+603218,Patrologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Patrologie"
+603219,Praktische Theologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Praktische Theologie"
+603220,Seelsorge,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Seelsorge"
+603221,Spirituelle Theologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Spirituelle Theologie"
+603222,Systematische Theologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Systematische Theologie"
+603223,Theologische Anthropologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Theologie > Theologische Anthropologie"
+603901,Atheismus,"Geisteswissenschaften > Philosophie, Ethik, Religion > Sonstige Religion, Religionswissenschaften > Atheismus"
+603902,Buddhismus,"Geisteswissenschaften > Philosophie, Ethik, Religion > Sonstige Religion, Religionswissenschaften > Buddhismus"
+603903,Exegese,"Geisteswissenschaften > Philosophie, Ethik, Religion > Sonstige Religion, Religionswissenschaften > Exegese"
+603904,Hinduismus,"Geisteswissenschaften > Philosophie, Ethik, Religion > Sonstige Religion, Religionswissenschaften > Hinduismus"
+603905,Islam,"Geisteswissenschaften > Philosophie, Ethik, Religion > Sonstige Religion, Religionswissenschaften > Islam"
+603906,Jüdische Religion,"Geisteswissenschaften > Philosophie, Ethik, Religion > Sonstige Religion, Religionswissenschaften > Jüdische Religion"
+603907,Kirchenrecht,"Geisteswissenschaften > Philosophie, Ethik, Religion > Sonstige Religion, Religionswissenschaften > Kirchenrecht"
+603908,Religionsgeschichte,"Geisteswissenschaften > Philosophie, Ethik, Religion > Sonstige Religion, Religionswissenschaften > Religionsgeschichte"
+603910,Religionspsychologie,"Geisteswissenschaften > Philosophie, Ethik, Religion > Sonstige Religion, Religionswissenschaften > Religionspsychologie"
+603909,Religionswissenschaft,"Geisteswissenschaften > Philosophie, Ethik, Religion > Sonstige Religion, Religionswissenschaften > Religionswissenschaft"
+604001,Angewandte Kunst,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Angewandte Kunst
+604002,Architektonische Gestaltung,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Architektonische Gestaltung
+604003,Aufführungspraxis,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Aufführungspraxis
+604004,Bildende Kunst,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Bildende Kunst
+604005,Bühnengestaltung,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Bühnengestaltung
+604039,Computermusik,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Computermusik
+604006,Darstellende Kunst,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Darstellende Kunst
+604007,Denkmalpflege,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Denkmalpflege
+604008,Design,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Design
+604038,Digitale Kunst,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Digitale Kunst
+604009,Ethnomusikologie,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Ethnomusikologie
+604010,Filmgestaltung,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Filmgestaltung
+604011,Filmwissenschaft,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Filmwissenschaft
+604012,Fotografie,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Fotografie
+604013,Gartenkunst,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Gartenkunst
+604014,Gesang,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Gesang
+604031,Historische Technologie,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Historische Technologie
+604015,Industrial Design,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Industrial Design
+604032,Instrumentalstudien,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Instrumentalstudien
+604040,Interpretationsforschung,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Interpretationsforschung
+604016,Jazzforschung,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Jazzforschung
+604017,Kirchenmusik,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Kirchenmusik
+604033,Komposition,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Komposition
+604018,Konservierung und Restaurierung,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Konservierung und Restaurierung
+604019,Kunstgeschichte,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Kunstgeschichte
+604020,Kunsttheorie,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Kunsttheorie
+604021,Medienkunst,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Medienkunst
+604041,Modedesign,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Modedesign
+604022,Musikgeschichte,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Musikgeschichte
+604034,Musiktheater,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Musiktheater
+604023,Musiktheorie,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Musiktheorie
+604024,Musikwissenschaft,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Musikwissenschaft
+604035,Orgelforschung,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Orgelforschung
+604025,Popularmusikforschung,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Popularmusikforschung
+604036,Provenienzforschung,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Provenienzforschung
+604026,Raumkunst,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Raumkunst
+604037,Sammlungspflege,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Sammlungspflege
+604027,Szenographie,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Szenographie
+604028,Tanzwissenschaft,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Tanzwissenschaft
+604029,Theaterwissenschaft,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Theaterwissenschaft
+604030,Volksmusikforschung,Geisteswissenschaften > Kunstwissenschaften > Kunstwissenschaften > Volksmusikforschung
+605007,Digital Humanities,Geisteswissenschaften > Andere Geisteswissenschaften > Andere Geisteswissenschaften > Digital Humanities
+605001,Geschichte der Geisteswissenschaften,Geisteswissenschaften > Andere Geisteswissenschaften > Andere Geisteswissenschaften > Geschichte der Geisteswissenschaften
+605008,Kulturerbe,Geisteswissenschaften > Andere Geisteswissenschaften > Andere Geisteswissenschaften > Kulturerbe
+605002,Kulturgeschichte,Geisteswissenschaften > Andere Geisteswissenschaften > Andere Geisteswissenschaften > Kulturgeschichte
+605006,Kulturmanagement,Geisteswissenschaften > Andere Geisteswissenschaften > Andere Geisteswissenschaften > Kulturmanagement
+605003,Kulturökonomie,Geisteswissenschaften > Andere Geisteswissenschaften > Andere Geisteswissenschaften > Kulturökonomie
+605004,Kulturwissenschaft,Geisteswissenschaften > Andere Geisteswissenschaften > Andere Geisteswissenschaften > Kulturwissenschaft
+605005,Publikumsforschung,Geisteswissenschaften > Andere Geisteswissenschaften > Andere Geisteswissenschaften > Publikumsforschung
